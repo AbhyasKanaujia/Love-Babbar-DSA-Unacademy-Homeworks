@@ -1,0 +1,63 @@
+{
+  "Toggle heading level 1 in GitHub markdown": {
+    "prefix": "toggle1",
+    "body": [
+      "<details>",
+      "<summary><h1 style='display: inline';>${1:number}. ${2:question}</h1></summary>",
+      "",
+      "${0}",
+      "",
+      "```cpp",
+      "",
+      "```",
+      "",
+      "</details>"
+    ],
+    "description": "Toggle in GitHub markdown"
+  },
+  "Toggle heading level 2 in GitHub markdown": {
+    "prefix": "toggle2",
+    "body": [
+      "<details>",
+      "<summary><h2 style='display: inline';>${1:number}. ${2:question}</h2></summary>",
+      "",
+      "${0}",
+      "",
+      "```cpp",
+      "",
+      "```",
+      "",
+      "</details>"
+    ],
+    "description": "Toggle in GitHub markdown"
+  },
+  "Toggle heading level 3 in GitHub markdown": {
+    "prefix": "toggle3",
+    "body": [
+      "<details>",
+      "<summary><h3 style='display: inline';>${1:number}. ${2:question}</h3></summary>",
+      "",
+      "${0}",
+      "",
+      "```cpp",
+      "",
+      "```",
+      "",
+      "</details>"
+    ],
+    "description": "Toggle in GitHub markdown"
+  },
+  "Toggle in GitHub markdown": {
+    "prefix": "toggle",
+    "body": [
+      "<details>",
+      "<summary>${1:summary}</summary>",
+      "",
+      "${2}",
+      "",
+      "</details>",
+      "${0}"
+    ],
+    "description": "Toggle in GitHub markdown"
+  }
+}
