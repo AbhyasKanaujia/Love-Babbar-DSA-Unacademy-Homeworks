@@ -6,7 +6,7 @@
 
 * [Handwritten homework](01-introduction-to-programming/handwritten-homework.md)
 
-## 🔨 02  Programming Basics I
+## 🔨 02 Programming Basics I
 
 * [Handwritten homework](02-programming-basics-i/handwritten-homework.md)
 
@@ -51,3 +51,5 @@
   * [01. Anagram using map](14-character-array-and-strings/homework/01.-anagram-using-map.md)
   * [02. Check if One String is in Another](14-character-array-and-strings/homework/02.-check-if-one-string-is-in-another.md)
   * [cppref string play](14-character-array-and-strings/homework/cppref-string-play.md)
+* [Discord Homework](14-character-array-and-strings/discord-homework/README.md)
+  * [Length of a string](14-character-array-and-strings/discord-homework/length-of-a-string.md)
