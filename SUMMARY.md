@@ -63,3 +63,8 @@
   * [08. Remove all the adjacent duplicates](14-character-array-and-strings/discord-homework/08.-remove-all-the-adjacent-duplicates.md)
   * [09. String Compression](14-character-array-and-strings/discord-homework/09.-string-compression.md)
   * [10. Permutation in String](14-character-array-and-strings/discord-homework/10.-permutation-in-string.md)
+
+## ➗ 15. Basic Mathematics for DSA
+
+* [Homework](15.-basic-mathematics-for-dsa/homework/README.md)
+  * [01. Primality Test](15.-basic-mathematics-for-dsa/homework/01.-primality-test.md)
