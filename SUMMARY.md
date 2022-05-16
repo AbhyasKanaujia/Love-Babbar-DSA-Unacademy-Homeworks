@@ -1,8 +1,14 @@
 # Table of contents
 
 * [README](README.md)
-* [01 Introduction to Programming](01-introduction-to-programming.md)
-* [02 Homework of Programming Basics I](02-homework-of-programming-basics-i.md)
+
+## 01 Introduction to Programming
+
+* [Handwritten homework](01-introduction-to-programming/handwritten-homework.md)
+
+## 02 Homework of Programming Basics I
+
+* [Handwritten homework](02-homework-of-programming-basics-i/handwritten-homework.md)
 
 ## 03 Programming Basics II
 
@@ -19,6 +25,6 @@
 * [11. Binary to Decimal](03-programming-basics-ii/11.-binary-to-decimal.md)
 * [12. Octal to Binary](03-programming-basics-ii/12.-octal-to-binary.md)
 
-***
+## 04 Pattern Programs
 
-* [04 Pattern Programs](04-pattern-programs.md)
+* [All solutions](04-pattern-programs/all-solutions.md)
