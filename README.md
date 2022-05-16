@@ -4,9 +4,13 @@
 
 ### Homework
 
-* [x] 📔 01 Introduction to Programming
-* [x] 📔 02 Programming Basic I
-* [x] 📔 03 Programming Basic II
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4ca">📊</span> Progress</summary>
+
+* [x] 01 Introduction to Programming
+* [x] 02 Programming Basic I
+* [x] 03 Programming Basic II
 * [x] Doubt Clearing Session Part I
 * [ ] 📔 04 Pattern Homework 👈
 * [ ] 📔 05 Programming Basics III
@@ -21,5 +25,10 @@
 * [ ] 📺 12 Binary Search Problem II
 * [ ] Doubt Clearing Session IV
 * [ ] 📺 13 Sorting Techniques 👈
-* [ ] 📔 14 Character Arrays and String 👈
-* [ ] 📔 15 Basic Mathematics for DSA
+* [x] 14 Character Arrays and String&#x20;
+* [ ] 📔 15 Basic Mathematics for DSA 👈
+* [ ] 📺 Doubt Clearing Session V
+
+</details>
+
+[![](https://img.icons8.com/color/48/000000/linkedin-circled--v3.png)](https://www.linkedin.com/in/abhyas/)[![](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/abhyasKanaujia/)

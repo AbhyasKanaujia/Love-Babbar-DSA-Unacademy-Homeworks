@@ -1,4 +1,4 @@
-# cppref string play
+# 03. cppref string play
 
 ```cpp
 #include <bits/stdc++.h>
@@ -131,4 +131,37 @@ int main()
 
   return 0;
 }
+```
+
+Output:
+
+```
+Created using constructor: Abhyas
+Assigned using assignment: Abhyas
+String 2 after modifition: Kbhyas
+String 1 after modifying string 2: Abhyas
+str1.at(3): y
+str1[3]: y
+str1.front(): A
+str1.back(): s
+str1.data(): Abhyas
+str1.c_str(): Abhyas
+str1.begin(): A
+str1.end():
+str1.empty(): false
+str1.size(): 6
+str1.length(): 6
+str1.max_size(): 2147483647
+str1 after clear():
+str1 after insert(): Kavya
+str1 after erase(): Kavy
+str1 after push_back(): Kavya
+str1 after pop_back(): Kavy
+str1 after append(): Kavyaaa
+str2 after +=: Kbhyassss
+str1.compare(str2): -1
+str2 after replace(): Abhyassss
+str1.substr(0, 4): Kavy
+str1.find("a"): 1
+str1.rfind("a"): 6
 ```
