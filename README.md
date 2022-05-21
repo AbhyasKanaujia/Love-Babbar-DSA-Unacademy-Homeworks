@@ -31,4 +31,8 @@
 
 </details>
 
-[![](https://img.icons8.com/color/48/000000/linkedin-circled--v3.png)](https://www.linkedin.com/in/abhyas/)[![](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/abhyasKanaujia/)
+### Find me&#x20;
+
+[![](https://img.icons8.com/color/48/000000/linkedin-circled--v3.png)](https://www.linkedin.com/in/abhyas/)[![](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/abhyasKanaujia/)[![](https://img.icons8.com/color/48/000000/discord-logo.png)](http://discordapp.com/users/520215009469661195)[![](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](http://t.me/Abhyas29)
+
+𝒜𝒷𝒽𝓎𝒶𝓈
