@@ -12,22 +12,25 @@
 * [x] 02 Programming Basic I
 * [x] 03 Programming Basic II
 * [x] Doubt Clearing Session Part I
-* [ ] 📔 04 Pattern Homework 👈
-* [ ] 📔 05 Programming Basics III
-* [ ] 📔 06 functions and array
+* [ ] 04 📔 Pattern Homework 👈
+* [ ] 05 📔 Programming Basics III
+* [ ] 06 📔 Functions and array
 * [ ] Doubt Clearing Session Part II
-* [ ] 📔 07 Array Problems I
-* [ ] 📺 08 Array Problem II
-* [ ] 📺 09 2D Array
+* [ ] 07 📔 Array Problems I
+* [ ] 08 📺 Array Problem II
+* [ ] 09 📺 2D Array
 * [ ] Doubt Clearing Session
-* [ ] 📺 10 Binary Search
-* [ ] 📺 11 Binary Search Problems I
-* [ ] 📺 12 Binary Search Problem II
+* [ ] 10 📺 Binary Search
+* [ ] 11 📺Binary Search Problems I
+* [ ] 12 📺 Binary Search Problem II
 * [ ] Doubt Clearing Session IV
-* [ ] 📺 13 Sorting Techniques 👈
+* [ ] 13 📺 Sorting Techniques 👈
 * [x] 14 Character Arrays and String&#x20;
-* [ ] 📔 15 Basic Mathematics for DSA 👈
-* [ ] 📺 Doubt Clearing Session V
+* [ ] 15 📔 Basic Mathematics for DSA 👈
+* [x] Doubt Clearing Session V
+* [ ] 16 📔 Pointers I
+* [ ] 17 📺 Pointers II
+* [ ] 18 📺 Static and Dynamic Allocation
 
 </details>
 
