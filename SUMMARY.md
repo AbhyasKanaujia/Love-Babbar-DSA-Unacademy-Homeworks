@@ -96,3 +96,15 @@
 ## 💾 18 Static and Dynamic Allocation <a href="#18SnDA" id="18SnDA"></a>
 
 * [📔 Handwritten Notes](18SnDA/notes.md)
+* [🧑💻 Classwork](18SnDA/classwork/README.md)
+  * [01 Dynamic Allocaiton of variable](18SnDA/classwork/01-dynamic-allocaiton-of-variable.md)
+  * [02 Dynamic Allocation of 1D Array](18SnDA/classwork/02-dynamic-allocation-of-1d-array.md)
+  * [03 Dynamic Allocation of 2D Array](18SnDA/classwork/03-dynamic-allocation-of-2d-array.md)
+  * [04 Create jagged array](18SnDA/classwork/04-create-jagged-array.md)
+* [🏡 Homework](18SnDA/homework/README.md)
+  * [Why use void pointer?](18SnDA/homework/why-use-void-pointer.md)
+  * [Macros](18SnDA/homework/macros.md)
+  * [How to know if inline worked or not?](18SnDA/homework/how-to-know-if-inline-worked-or-not.md)
+* [✨ Bonus](18SnDA/bonus/README.md)
+  * [new vs malloc](18SnDA/bonus/new-vs-malloc.md)
+  * [Memory Leaks](18SnDA/bonus/memory-leaks.md)
