@@ -92,6 +92,9 @@
 ## 👉 17 Pointers II
 
 * [📔 Handwritten Notes](17-pointers-ii/notes.md)
+* [🏡 Homework](17-pointers-ii/homework/README.md)
+  * [How many level deep can pointer to pointer go?](17-pointers-ii/homework/how-many-level-deep-can-pointer-to-pointer-go.md)
+  * [Double pointers and funciton play](17-pointers-ii/homework/double-pointers-and-funciton-play.md)
 
 ## 💾 18 Static and Dynamic Allocation
 
