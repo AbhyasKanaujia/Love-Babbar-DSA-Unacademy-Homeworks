@@ -34,13 +34,17 @@
 * [📔 Handwritten Notes](04-pattern-programs/handwritten-notes.md)
 * [⛳ All solutions](04-pattern-programs/all-solutions.md)
 
-## 🗒 05 Arrays and Functions
+## 🛠 05 Programming Basics III <a href="#05pb3" id="05pb3"></a>
 
-* [⛳ Discord Homework List](05-arrays-and-functions/discord-homework-list/README.md)
-  * [01. Linear Search](05-arrays-and-functions/discord-homework-list/01.-linear-search.md)
-  * [02. Reverse an Array](05-arrays-and-functions/discord-homework-list/02.-reverse-an-array.md)
-  * [03. Find max and min element in an array](05-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
-  * [04. Swap Alternates in an Array](05-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
+* [📔 Handwritten Notes](05pb3/handwritten-notes.md)
+
+## 🗒 06 Arrays and Functions
+
+* [⛳ Discord Homework List](06-arrays-and-functions/discord-homework-list/README.md)
+  * [01. Linear Search](06-arrays-and-functions/discord-homework-list/01.-linear-search.md)
+  * [02. Reverse an Array](06-arrays-and-functions/discord-homework-list/02.-reverse-an-array.md)
+  * [03. Find max and min element in an array](06-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
+  * [04. Swap Alternates in an Array](06-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
 
 ## 🧵 14 Character Array and Strings
 
