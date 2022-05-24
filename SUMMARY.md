@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [😇 README](README.md)
 
 ## ✨ 01 Introduction to Programming
 
@@ -53,6 +53,7 @@
 
 ## 🧵 14 Character Array and Strings
 
+* [📔 Handwritten Notes](14-character-array-and-strings/handwritten-notes.md)
 * [🧑💻 Classwork](14-character-array-and-strings/classwork/README.md)
   * [Anagram 1 Sort and Compare](14-character-array-and-strings/classwork/anagram-1-sort-and-compare.md)
   * [Anagram 2 Lookup table](14-character-array-and-strings/classwork/anagram-2-lookup-table.md)
