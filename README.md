@@ -4,35 +4,7 @@
 
 ### Homework
 
-<details>
-
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4ca">📊</span> Progress</summary>
-
-* [x] 01 Introduction to Programming
-* [x] 02 Programming Basic I
-* [x] 03 Programming Basic II
-* [x] Doubt Clearing Session Part I
-* [ ] 04 📔 Pattern Homework 👈
-* [ ] 05 📔 Programming Basics III
-* [ ] 06 📔 Functions and array
-* [ ] Doubt Clearing Session Part II
-* [ ] 07 📔 Array Problems I
-* [ ] 08 📺 Array Problem II
-* [ ] 09 📺 2D Array
-* [ ] Doubt Clearing Session
-* [ ] 10 📺 Binary Search
-* [ ] 11 📺Binary Search Problems I
-* [ ] 12 📺 Binary Search Problem II
-* [ ] Doubt Clearing Session IV
-* [ ] 13 📺 Sorting Techniques 👈
-* [x] 14 Character Arrays and String&#x20;
-* [ ] 15 📔 Basic Mathematics for DSA 👈
-* [x] Doubt Clearing Session V
-* [ ] 16 📔 Pointers I
-* [ ] 17 📺 Pointers II
-* [ ] 18 📺 Static and Dynamic Allocation
-
-</details>
+<table><thead><tr><th data-type="number"></th><th>Class</th><th data-type="checkbox">Video</th><th data-type="checkbox">Notes</th><th data-type="checkbox">Homework</th></tr></thead><tbody><tr><td>1</td><td>Introduction to Programming</td><td>true</td><td>true</td><td>true</td></tr><tr><td>2</td><td>Programming Basic I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>3</td><td>Programming Basic II</td><td>true</td><td>false</td><td>true</td></tr><tr><td>0</td><td>Doubt Clearing Session Part I</td><td>true</td><td>false</td><td>true</td></tr><tr><td>4</td><td>Pattern Homework</td><td>true</td><td>false</td><td>true</td></tr><tr><td>5</td><td>Programming Basics III</td><td>true</td><td>false</td><td>false</td></tr><tr><td>6</td><td>Functions and array</td><td>true</td><td>false</td><td>false</td></tr><tr><td>0</td><td>Doubt Clearing Session Part II</td><td>true</td><td>false</td><td>false</td></tr><tr><td>7</td><td>Array Problems I</td><td>true</td><td>false</td><td>false</td></tr><tr><td>8</td><td>Array Problem II</td><td>false</td><td>false</td><td>false</td></tr><tr><td>9</td><td>2D Array</td><td>false</td><td>false</td><td>false</td></tr><tr><td>null</td><td>Doubt Clearing Session Part III</td><td>false</td><td>false</td><td>false</td></tr><tr><td>10</td><td>Binary Search</td><td>false</td><td>false</td><td>false</td></tr><tr><td>11</td><td>Binary Search Problems I</td><td>false</td><td>false</td><td>false</td></tr><tr><td>12</td><td>Binary Search Problems II</td><td>false</td><td>false</td><td>false</td></tr><tr><td>null</td><td>Doubt Clearing Session IV</td><td>false</td><td>false</td><td>false</td></tr><tr><td>13</td><td>Sorting Techniques </td><td>false</td><td>false</td><td>false</td></tr><tr><td>14</td><td>Character Arrays and String </td><td>true</td><td>false</td><td>true</td></tr><tr><td>15</td><td>Basic Mathematics for DSA</td><td>true</td><td>false</td><td>false</td></tr><tr><td>null</td><td>Doubt Clearing Session V</td><td>false</td><td>false</td><td>false</td></tr><tr><td>16</td><td>Pointers I</td><td>true</td><td>false</td><td>false</td></tr><tr><td>17</td><td>Pointers II</td><td>false</td><td>false</td><td>false</td></tr><tr><td>18</td><td>Static and Dynamic Allocation</td><td>true</td><td>false</td><td>false</td></tr><tr><td>null</td><td>Doubt Clearing Session VI</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
 
 ### Find me&#x20;
 
