@@ -47,6 +47,10 @@
   * [03. Find max and min element in an array](05-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
   * [04. Swap Alternates in an Array](05-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
 
+## ❓ 07 Array Problems I <a href="#07AP1" id="07AP1"></a>
+
+* [📔 Handwritten Notes](07AP1/handwritten-notes.md)
+
 ## 🧵 14 Character Array and Strings
 
 * [🧑💻 Classwork](14-character-array-and-strings/classwork/README.md)
