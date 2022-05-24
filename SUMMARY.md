@@ -91,4 +91,8 @@
 
 ## 👉 17 Pointers II <a href="#17P2" id="17P2"></a>
 
-* [📔 Handwritten Notes](17P2/handwritten-notes.md)
+* [📔 Handwritten Notes](17P2/notes.md)
+
+## 💾 18 Static and Dynamic Allocation <a href="#18SnDA" id="18SnDA"></a>
+
+* [📔 Handwritten Notes](18SnDA/notes.md)
