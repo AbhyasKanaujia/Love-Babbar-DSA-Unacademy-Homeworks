@@ -31,6 +31,7 @@
 
 ## ⭐ 04 Pattern Programs
 
+* [📔 Handwritten Notes](04-pattern-programs/handwritten-notes.md)
 * [All solutions](04-pattern-programs/all-solutions.md)
 
 ## 🗒 05 Arrays and Functions
