@@ -4,8 +4,8 @@
 
 ## ✨ 01 Introduction to Programming
 
-* [📔 Handwritten Notes](01-introduction-to-programming/handwritten-notes.md)
-* [📔 Handwritten homework](01-introduction-to-programming/handwritten-homework.md)
+* [📔 Handwritten Notes 1](01-introduction-to-programming/Notes.md)
+* [📔 Handwritten Homework 1](01-introduction-to-programming/handwritten-homework-1.md)
 
 ## 🔨 02 Programming Basics I
 
@@ -88,6 +88,9 @@
 ## 👉 16 Pointers I
 
 * [📔 Handwritten Notes](16-pointers-i/handwritten-notes.md)
+* [🏡 Homework 16](16-pointers-i/homework-16/README.md)
+  * [Why Does 0x appear in Hex value?](16-pointers-i/homework-16/why-does-0x-appear-in-hex-value.md)
+  * [Why does pointer size appear 4 bytes on some system and 8 on others?](16-pointers-i/homework-16/why-does-pointer-size-appear-4-bytes-on-some-system-and-8-on-others.md)
 
 ## 👉 17 Pointers II
 
