@@ -4,18 +4,18 @@
 
 ## ✨ 01 Introduction to Programming
 
-* [Handwritten Notes](01-introduction-to-programming/handwritten-notes.md)
-* [Handwritten homework](01-introduction-to-programming/handwritten-homework.md)
+* [📔 Handwritten Notes](01-introduction-to-programming/handwritten-notes.md)
+* [📔 Handwritten homework](01-introduction-to-programming/handwritten-homework.md)
 
 ## 🔨 02 Programming Basics I
 
-* [Handwritten Notes](02-programming-basics-i/handwritten-notes.md)
-* [Handwritten homework](02-programming-basics-i/handwritten-homework.md)
+* [📔 Handwritten Notes](02-programming-basics-i/handwritten-notes.md)
+* [📔 Handwritten homework](02-programming-basics-i/handwritten-homework.md)
 
 ## ⚒ 03 Programming Basics II
 
-* [Handwritten Notes](03-programming-basics-ii/handwritten-notes.md)
-* [Homework](03-programming-basics-ii/homework/README.md)
+* [📔 Handwritten Notes](03-programming-basics-ii/handwritten-notes.md)
+* [🏡 Homework](03-programming-basics-ii/homework/README.md)
   * [01. Difference between if and switch](03-programming-basics-ii/01.-difference-between-if-and-switch.md)
   * [02. Which values are allowed in switch statement?](03-programming-basics-ii/02.-which-values-are-allowed-in-switch-statement.md)
   * [03. Print your name N times](03-programming-basics-ii/03.-print-your-name-n-times.md)
@@ -32,11 +32,11 @@
 ## ⭐ 04 Pattern Programs
 
 * [📔 Handwritten Notes](04-pattern-programs/handwritten-notes.md)
-* [All solutions](04-pattern-programs/all-solutions.md)
+* [⛳ All solutions](04-pattern-programs/all-solutions.md)
 
 ## 🗒 05 Arrays and Functions
 
-* [Discord Homework List](05-arrays-and-functions/discord-homework-list/README.md)
+* [⛳ Discord Homework List](05-arrays-and-functions/discord-homework-list/README.md)
   * [01. Linear Search](05-arrays-and-functions/discord-homework-list/01.-linear-search.md)
   * [02. Reverse an Array](05-arrays-and-functions/discord-homework-list/02.-reverse-an-array.md)
   * [03. Find max and min element in an array](05-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
@@ -44,7 +44,7 @@
 
 ## 🧵 14 Character Array and Strings
 
-* [Classwork](14-character-array-and-strings/classwork/README.md)
+* [🧑💻 Classwork](14-character-array-and-strings/classwork/README.md)
   * [Anagram 1 Sort and Compare](14-character-array-and-strings/classwork/anagram-1-sort-and-compare.md)
   * [Anagram 2 Lookup table](14-character-array-and-strings/classwork/anagram-2-lookup-table.md)
   * [Check if Strings are rotation of each other](14-character-array-and-strings/classwork/check-if-strings-are-rotation-of-each-other.md)
@@ -52,11 +52,11 @@
   * [getline() with delimiter](14-character-array-and-strings/classwork/getline-with-delimiter.md)
   * [Minimum number of flips](14-character-array-and-strings/classwork/minimum-number-of-flips.md)
   * [Reverse a Character String](14-character-array-and-strings/classwork/reverse-a-character-string.md)
-* [Homework](14-character-array-and-strings/homework/README.md)
+* [🏡 Homework](14-character-array-and-strings/homework/README.md)
   * [01. Anagram using map](14-character-array-and-strings/homework/01.-anagram-using-map.md)
   * [02. Check if One String is in Another](14-character-array-and-strings/homework/02.-check-if-one-string-is-in-another.md)
   * [03. cppref string play](14-character-array-and-strings/homework/cppref-string-play.md)
-* [Discord Homework](14-character-array-and-strings/discord-homework/README.md)
+* [⛳ Discord Homework](14-character-array-and-strings/discord-homework/README.md)
   * [01. Length of a string](14-character-array-and-strings/discord-homework/length-of-a-string.md)
   * [02. Reverse a String](14-character-array-and-strings/discord-homework/02.-reverse-a-string.md)
   * [03. Check If a String is a Palindrome or not](14-character-array-and-strings/discord-homework/03.-check-if-a-string-is-a-palindrome-or-not.md)
@@ -70,6 +70,6 @@
 
 ## ➗ 15. Basic Mathematics for DSA
 
-* [Homework](15.-basic-mathematics-for-dsa/homework/README.md)
+* [🏡 Homework](15.-basic-mathematics-for-dsa/homework/README.md)
   * [01. Primality Test](15.-basic-mathematics-for-dsa/homework/01.-primality-test.md)
   * [Why root N in primality test?](15.-basic-mathematics-for-dsa/homework/why-root-n-in-primality-test.md)

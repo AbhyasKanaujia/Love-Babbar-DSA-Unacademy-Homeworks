@@ -1,4 +1,4 @@
-# Handwritten Notes
+# 📔 Handwritten Notes
 
 ![1/7](<../.gitbook/assets/DocScanner 24-May-2022 11-06 am\_1.jpg>)
 

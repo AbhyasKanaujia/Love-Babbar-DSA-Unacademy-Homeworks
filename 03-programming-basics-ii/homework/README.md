@@ -1,4 +1,4 @@
-# Homework
+# 🏡 Homework
 
 {% content-ref url="../01.-difference-between-if-and-switch.md" %}
 [01.-difference-between-if-and-switch.md](../01.-difference-between-if-and-switch.md)

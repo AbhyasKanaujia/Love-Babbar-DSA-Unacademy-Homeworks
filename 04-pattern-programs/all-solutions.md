@@ -1,4 +1,4 @@
-# 04 Pattern Programs
+# ⛳ All solutions
 
 {% embed url="https://drive.google.com/drive/folders/1lB0Ccq_JpdS7j30Kt2UYOYjbuCyvXBne" %}
 Questions from Google Drive&#x20;
