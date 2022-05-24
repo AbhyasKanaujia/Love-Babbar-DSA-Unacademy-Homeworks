@@ -84,3 +84,7 @@
 * [🏡 Homework](15.-basic-mathematics-for-dsa/homework/README.md)
   * [01. Primality Test](15.-basic-mathematics-for-dsa/homework/01.-primality-test.md)
   * [Why root N in primality test?](15.-basic-mathematics-for-dsa/homework/why-root-n-in-primality-test.md)
+
+## 👉 16 Pointers I <a href="#16P1" id="16P1"></a>
+
+* [📔 Handwritten Notes](16P1/handwritten-notes.md)
