@@ -34,9 +34,9 @@
 * [📔 Handwritten Notes](04-pattern-programs/handwritten-notes.md)
 * [⛳ All solutions](04-pattern-programs/all-solutions.md)
 
-## 🛠 05 Programming Basics III <a href="#05pb3" id="05pb3"></a>
+## 🛠 05 Programming Basics III
 
-* [📔 Handwritten Notes](05pb3/handwritten-notes.md)
+* [📔 Handwritten Notes](05-programming-basics-iii/handwritten-notes.md)
 
 ## 🗒 06 Arrays and Functions
 
@@ -47,9 +47,9 @@
   * [03. Find max and min element in an array](05-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
   * [04. Swap Alternates in an Array](05-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
 
-## ❓ 07 Array Problems I <a href="#07AP1" id="07AP1"></a>
+## ❓ 07 Array Problems I
 
-* [📔 Handwritten Notes](07AP1/handwritten-notes.md)
+* [📔 Handwritten Notes](07-array-problems-i/handwritten-notes.md)
 
 ## 🧵 14 Character Array and Strings
 
@@ -85,26 +85,26 @@
   * [01. Primality Test](15.-basic-mathematics-for-dsa/homework/01.-primality-test.md)
   * [Why root N in primality test?](15.-basic-mathematics-for-dsa/homework/why-root-n-in-primality-test.md)
 
-## 👉 16 Pointers I <a href="#16P1" id="16P1"></a>
+## 👉 16 Pointers I
 
-* [📔 Handwritten Notes](16P1/handwritten-notes.md)
+* [📔 Handwritten Notes](16-pointers-i/handwritten-notes.md)
 
-## 👉 17 Pointers II <a href="#17P2" id="17P2"></a>
+## 👉 17 Pointers II
 
-* [📔 Handwritten Notes](17P2/notes.md)
+* [📔 Handwritten Notes](17-pointers-ii/notes.md)
 
-## 💾 18 Static and Dynamic Allocation <a href="#18SnDA" id="18SnDA"></a>
+## 💾 18 Static and Dynamic Allocation
 
-* [📔 Handwritten Notes](18SnDA/notes.md)
-* [🧑💻 Classwork](18SnDA/classwork/README.md)
-  * [01 Dynamic Allocaiton of variable](18SnDA/classwork/01-dynamic-allocaiton-of-variable.md)
-  * [02 Dynamic Allocation of 1D Array](18SnDA/classwork/02-dynamic-allocation-of-1d-array.md)
-  * [03 Dynamic Allocation of 2D Array](18SnDA/classwork/03-dynamic-allocation-of-2d-array.md)
-  * [04 Create jagged array](18SnDA/classwork/04-create-jagged-array.md)
-* [🏡 Homework](18SnDA/homework/README.md)
-  * [Why use void pointer?](18SnDA/homework/why-use-void-pointer.md)
-  * [Macros](18SnDA/homework/macros.md)
-  * [How to know if inline worked or not?](18SnDA/homework/how-to-know-if-inline-worked-or-not.md)
-* [✨ Bonus](18SnDA/bonus/README.md)
-  * [new vs malloc](18SnDA/bonus/new-vs-malloc.md)
-  * [Memory Leaks](18SnDA/bonus/memory-leaks.md)
+* [📔 Handwritten Notes](18-static-and-dynamic-allocation/notes.md)
+* [🧑💻 Classwork](18-static-and-dynamic-allocation/classwork/README.md)
+  * [01 Dynamic Allocaiton of variable](18-static-and-dynamic-allocation/classwork/01-dynamic-allocaiton-of-variable.md)
+  * [02 Dynamic Allocation of 1D Array](18-static-and-dynamic-allocation/classwork/02-dynamic-allocation-of-1d-array.md)
+  * [03 Dynamic Allocation of 2D Array](18-static-and-dynamic-allocation/classwork/03-dynamic-allocation-of-2d-array.md)
+  * [04 Create jagged array](18-static-and-dynamic-allocation/classwork/04-create-jagged-array.md)
+* [🏡 Homework](18-static-and-dynamic-allocation/homework/README.md)
+  * [Why use void pointer?](18-static-and-dynamic-allocation/homework/why-use-void-pointer.md)
+  * [Macros](18-static-and-dynamic-allocation/homework/macros.md)
+  * [How to know if inline worked or not?](18-static-and-dynamic-allocation/homework/how-to-know-if-inline-worked-or-not.md)
+* [✨ Bonus](18-static-and-dynamic-allocation/bonus/README.md)
+  * [new vs malloc](18-static-and-dynamic-allocation/bonus/new-vs-malloc.md)
+  * [Memory Leaks](18-static-and-dynamic-allocation/bonus/memory-leaks.md)
