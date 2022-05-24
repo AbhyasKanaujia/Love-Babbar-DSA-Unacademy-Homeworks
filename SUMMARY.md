@@ -40,11 +40,12 @@
 
 ## 🗒 06 Arrays and Functions
 
-* [⛳ Discord Homework List](06-arrays-and-functions/discord-homework-list/README.md)
-  * [01. Linear Search](06-arrays-and-functions/discord-homework-list/01.-linear-search.md)
-  * [02. Reverse an Array](06-arrays-and-functions/discord-homework-list/02.-reverse-an-array.md)
-  * [03. Find max and min element in an array](06-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
-  * [04. Swap Alternates in an Array](06-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
+* [📔 Handwriteen Notes](06-arrays-and-functions/handwriteen-notes.md)
+* [⛳ Discord Homework List](05-arrays-and-functions/discord-homework-list/README.md)
+  * [01. Linear Search](05-arrays-and-functions/discord-homework-list/01.-linear-search.md)
+  * [02. Reverse an Array](05-arrays-and-functions/discord-homework-list/02.-reverse-an-array.md)
+  * [03. Find max and min element in an array](05-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
+  * [04. Swap Alternates in an Array](05-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
 
 ## 🧵 14 Character Array and Strings
 
