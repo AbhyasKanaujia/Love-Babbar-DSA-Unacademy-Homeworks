@@ -9,6 +9,7 @@
 
 ## 🔨 02 Programming Basics I
 
+* [Handwritten Notes](02-programming-basics-i/handwritten-notes.md)
 * [Handwritten homework](02-programming-basics-i/handwritten-homework.md)
 
 ## ⚒ 03 Programming Basics II
