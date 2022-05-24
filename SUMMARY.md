@@ -88,3 +88,7 @@
 ## 👉 16 Pointers I <a href="#16P1" id="16P1"></a>
 
 * [📔 Handwritten Notes](16P1/handwritten-notes.md)
+
+## 👉 17 Pointers II <a href="#17P2" id="17P2"></a>
+
+* [📔 Handwritten Notes](17P2/handwritten-notes.md)
