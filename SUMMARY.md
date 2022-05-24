@@ -14,6 +14,7 @@
 
 ## ⚒ 03 Programming Basics II
 
+* [Handwritten Notes](03-programming-basics-ii/handwritten-notes.md)
 * [Homework](03-programming-basics-ii/homework/README.md)
   * [01. Difference between if and switch](03-programming-basics-ii/01.-difference-between-if-and-switch.md)
   * [02. Which values are allowed in switch statement?](03-programming-basics-ii/02.-which-values-are-allowed-in-switch-statement.md)
