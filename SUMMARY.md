@@ -4,6 +4,7 @@
 
 ## ✨ 01 Introduction to Programming
 
+* [Handwritten Notes](01-introduction-to-programming/handwritten-notes.md)
 * [Handwritten homework](01-introduction-to-programming/handwritten-homework.md)
 
 ## 🔨 02 Programming Basics I
