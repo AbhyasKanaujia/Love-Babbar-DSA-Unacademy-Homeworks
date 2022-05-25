@@ -87,7 +87,7 @@
   * [02 Euclid's Algorithm for GCD](15.-basic-mathematics-for-dsa/classwork/02-euclids-algorithm-for-gcd.md)
 * [🏡 Homework](15.-basic-mathematics-for-dsa/homework/README.md)
   * [01. Primality Test](15.-basic-mathematics-for-dsa/homework/01.-primality-test.md)
-  * [02 Why check till root N in primality test?](15.-basic-mathematics-for-dsa/homework/02-why-check-till-root-n-in-primality-test.md)
+  * [02 Why check till root N in primality test?](15.-basic-mathematics-for-dsa/homework/why-root-n-in-primality-test.md)
   * [03 Leet Code Count Primes](15.-basic-mathematics-for-dsa/homework/03-leet-code-count-primes.md)
   * [04 Time Complexity of Sieve of Eratosthenes](15.-basic-mathematics-for-dsa/homework/04-time-complexity-of-sieve-of-eratosthenes.md)
   * [05 Segmened Sieve](15.-basic-mathematics-for-dsa/homework/05-segmened-sieve.md)
@@ -121,3 +121,7 @@
 * [✨ Bonus](18-static-and-dynamic-allocation/bonus/README.md)
   * [new vs malloc](18-static-and-dynamic-allocation/bonus/new-vs-malloc.md)
   * [Memory Leaks](18-static-and-dynamic-allocation/bonus/memory-leaks.md)
+
+## 🔁 19 Recursion I
+
+* [📔 Handwritten Notes](19-recursion-i/handwritten-notes.md)
