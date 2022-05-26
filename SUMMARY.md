@@ -85,12 +85,14 @@
 * [🧑💻 Classwork](15.-basic-mathematics-for-dsa/classwork/README.md)
   * [01 Function to check if number is prime](15.-basic-mathematics-for-dsa/classwork/01-function-to-check-if-number-is-prime.md)
   * [02 Euclid's Algorithm for GCD](15.-basic-mathematics-for-dsa/classwork/02-euclids-algorithm-for-gcd.md)
+  * [03 Fast Exponentiation](15.-basic-mathematics-for-dsa/classwork/03-fast-exponentiation.md)
 * [🏡 Homework](15.-basic-mathematics-for-dsa/homework/README.md)
   * [01. Primality Test](15.-basic-mathematics-for-dsa/homework/01.-primality-test.md)
   * [02 Why check till root N in primality test?](15.-basic-mathematics-for-dsa/homework/why-root-n-in-primality-test.md)
   * [03 Leet Code Count Primes](15.-basic-mathematics-for-dsa/homework/03-leet-code-count-primes.md)
   * [04 Time Complexity of Sieve of Eratosthenes](15.-basic-mathematics-for-dsa/homework/04-time-complexity-of-sieve-of-eratosthenes.md)
   * [05 Segmened Sieve](15.-basic-mathematics-for-dsa/homework/05-segmened-sieve.md)
+  * [06 Pigeon Hole Principle](15.-basic-mathematics-for-dsa/homework/06-pigeon-hole-principle.md)
 
 ## 👉 16 Pointers I
 
@@ -125,3 +127,4 @@
 ## 🔁 19 Recursion I
 
 * [📔 Handwritten Notes](19-recursion-i/handwritten-notes.md)
+* [Page 1](19-recursion-i/page-1.md)
