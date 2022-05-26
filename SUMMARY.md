@@ -127,4 +127,7 @@
 ## 🔁 19 Recursion I
 
 * [📔 Handwritten Notes](19-recursion-i/handwritten-notes.md)
-* [Page 1](19-recursion-i/page-1.md)
+* [🏡 Homework](19-recursion-i/homework/README.md)
+  * [01 Find max in array using recursion](19-recursion-i/homework/01-find-max-in-array-using-recursion.md)
+  * [02 Search an Element using Recursion](19-recursion-i/homework/02-search-an-element-using-recursion.md)
+  * [03 Binary Search using Recursion](19-recursion-i/homework/03-binary-search-using-recursion.md)

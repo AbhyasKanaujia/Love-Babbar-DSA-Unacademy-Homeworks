@@ -1,5 +1,13 @@
 # 🧪 Formula List
 
+### Binary Search
+
+#### Mid
+
+$$
+mid=low+(high-low)>>1
+$$
+
 ### Math
 
 #### Primality Test
