@@ -144,3 +144,7 @@
   * [01 Find max in array using recursion](19-recursion-i/homework/01-find-max-in-array-using-recursion.md)
   * [02 Search an Element using Recursion](19-recursion-i/homework/02-search-an-element-using-recursion.md)
   * [03 Binary Search using Recursion](19-recursion-i/homework/03-binary-search-using-recursion.md)
+
+## 🔁 20 Recursion II
+
+* [📔 Handwritten Notes](20-recursion-ii/handwritten-notes.md)
