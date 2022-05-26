@@ -2,7 +2,7 @@
 
 * [😇 README](README.md)
 * [🧪 Formula List](formula-list.md)
-* [Functions](functions.md)
+* [🚀 Functions](functions.md)
 
 ## ✨ 01 Introduction to Programming
 
@@ -55,6 +55,15 @@
 ## ❓ 07 Array Problems I
 
 * [📔 Handwritten Notes](07-array-problems-i/handwritten-notes.md)
+* [🧑💻 Classwork](07-array-problems-i/classwork/README.md)
+  * [01 Reverse an Array](07-array-problems-i/classwork/01-reverse-an-array.md)
+  * [02 Swap Using XOR](07-array-problems-i/classwork/02-swap-using-xor.md)
+  * [03 Find Min and Max in array](07-array-problems-i/classwork/03-find-min-and-max-in-array.md)
+  * [04 Swap Alternate](07-array-problems-i/classwork/04-swap-alternate.md)
+  * [05 Sort 0s, 1s and 2s](07-array-problems-i/classwork/05-sort-0s-1s-and-2s.md)
+  * [06 Check if Array is Palindrome](07-array-problems-i/classwork/06-check-if-array-is-palindrome.md)
+* [🏡 Homework](07-array-problems-i/homework/README.md)
+  * [01 Union of two Sorted Arrays](07-array-problems-i/homework/01-union-of-two-sorted-arrays.md)
 
 ## 🧵 14 Character Array and Strings
 

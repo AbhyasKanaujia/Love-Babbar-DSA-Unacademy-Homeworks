@@ -1,5 +1,9 @@
 # 🧪 Formula List
 
+### Arrays
+
+1. Addrss of index `i` = `base address` + `index` \* `size` of each element
+
 ### Binary Search
 
 #### Mid
