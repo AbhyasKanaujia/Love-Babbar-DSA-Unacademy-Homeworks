@@ -3,6 +3,7 @@
 * [😇 README](README.md)
 * [🧪 Formula List](formula-list.md)
 * [🚀 Functions](functions.md)
+* [⚔ Question List](question-list.md)
 
 ## ✨ 01 Introduction to Programming
 

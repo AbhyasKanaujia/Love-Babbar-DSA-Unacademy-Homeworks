@@ -9,8 +9,10 @@
 #### Mid
 
 $$
-mid=low+(high-low)>>1
+mid=low+((high-low)>>1)
 $$
+
+:bomb: `mid = low + (high - low) >> 1` will not work. >>'s precedence is lower, so it needs to be in paranthesis.&#x20;
 
 ### Math
 
