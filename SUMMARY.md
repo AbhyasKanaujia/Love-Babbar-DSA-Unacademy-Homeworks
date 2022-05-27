@@ -7,8 +7,8 @@
 
 ## ✨ 01 Introduction to Programming
 
-* [📔 Handwritten Notes 1](01-introduction-to-programming/handwritten-notes.md)
-* [📔 Handwritten Homework 1](01-introduction-to-programming/handwritten-homework.md)
+* [📔 Handwritten Notes](01-introduction-to-programming/handwritten-notes.md)
+* [📔 Handwritten Homework](01-introduction-to-programming/handwritten-homework.md)
 
 ## 🔨 02 Programming Basics I
 
@@ -47,11 +47,6 @@
 ## 🗒 06 Arrays and Functions
 
 * [📔 Handwriteen Notes](06-arrays-and-functions/handwriteen-notes.md)
-* [⛳ Discord Homework List](05-arrays-and-functions/discord-homework-list/README.md)
-  * [01. Linear Search](05-arrays-and-functions/discord-homework-list/01.-linear-search.md)
-  * [02. Reverse an Array](05-arrays-and-functions/discord-homework-list/02.-reverse-an-array.md)
-  * [03. Find max and min element in an array](05-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
-  * [04. Swap Alternates in an Array](05-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
 
 ## ❓ 07 Array Problems I
 
@@ -63,8 +58,15 @@
   * [04 Swap Alternate](07-array-problems-i/classwork/04-swap-alternate.md)
   * [05 Sort 0s, 1s and 2s](07-array-problems-i/classwork/05-sort-0s-1s-and-2s.md)
   * [06 Check if Array is Palindrome](07-array-problems-i/classwork/06-check-if-array-is-palindrome.md)
-* [🏡 Homework](07-array-problems-i/homework/README.md)
-  * [01 Union of two Sorted Arrays](07-array-problems-i/homework/01-union-of-two-sorted-arrays.md)
+* [⛳ Discord Homework List](07-array-problems-i/discord-homework-list/README.md)
+  * [01. Linear Search](07-array-problems-i/discord-homework-list/01.-linear-search.md)
+  * [02. Reverse an Array](07-array-problems-i/discord-homework-list/02.-reverse-an-array.md)
+  * [03. Find max and min element in an array](07-array-problems-i/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
+  * [04. Swap Alternates in an Array](07-array-problems-i/discord-homework-list/04.-swap-alternates-in-an-array.md)
+  * [05 Sort 0s, 1s and 2s](07-array-problems-i/discord-homework-list/05-sort-0s-1s-and-2s.md)
+  * [06 Move Negative to One Size](07-array-problems-i/discord-homework-list/06-move-negative-to-one-size.md)
+  * [07 Union of two Sorted Arrays](07-array-problems-i/discord-homework-list/07-union-of-two-sorted-arrays.md)
+  * [07 Intersection of Two Arrays](07-array-problems-i/discord-homework-list/07-intersection-of-two-arrays.md)
 
 ## 🧵 14 Character Array and Strings
 

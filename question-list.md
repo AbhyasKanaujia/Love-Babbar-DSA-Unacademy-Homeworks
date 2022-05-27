@@ -18,21 +18,25 @@
 
 [All Pattern Programs](04-pattern-programs/all-solutions.md)
 
-Array
+### Array
 
-[Linear Search](05-arrays-and-functions/discord-homework-list/01.-linear-search.md)
+[Linear Search](07-array-problems-i/discord-homework-list/01.-linear-search.md)
 
-[Reverse an Array](05-arrays-and-functions/discord-homework-list/02.-reverse-an-array.md)
+[Reverse an Array](07-array-problems-i/discord-homework-list/02.-reverse-an-array.md)
 
-[Find Max and Min in Array](05-arrays-and-functions/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
+[Find Max and Min in Array](07-array-problems-i/discord-homework-list/03.-find-max-and-min-element-in-an-array.md)
 
-[Swap Alternates in an Arary](05-arrays-and-functions/discord-homework-list/04.-swap-alternates-in-an-array.md)
+[Swap Alternates in an Arary](07-array-problems-i/discord-homework-list/04.-swap-alternates-in-an-array.md)
 
 [Sort 0s 1s and 2s](07-array-problems-i/classwork/05-sort-0s-1s-and-2s.md)
 
 [Check if Array is Palindrome](07-array-problems-i/classwork/06-check-if-array-is-palindrome.md)
 
-[Union of two sorted Arrays](07-array-problems-i/homework/01-union-of-two-sorted-arrays.md)
+[Union of two Arrays](07-array-problems-i/discord-homework-list/07-union-of-two-sorted-arrays.md)
+
+[Intersection of two Arrays](07-array-problems-i/discord-homework-list/07-intersection-of-two-arrays.md)
+
+[Move Negative to One Side](07-array-problems-i/discord-homework-list/06-move-negative-to-one-size.md)
 
 ### String
 
