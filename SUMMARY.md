@@ -51,7 +51,7 @@
 ## ❓ 07 Array Problems I
 
 * [📔 Handwritten Notes](07-array-problems-i/handwritten-notes.md)
-* [🧑💻 🧑💻 Classwork](07-array-problems-i/classwork/README.md)
+* [🧑💻 Classwork](07-array-problems-i/classwork/README.md)
   * [01 Reverse an Array](07-array-problems-i/classwork/01-reverse-an-array.md)
   * [02 Swap Using XOR](07-array-problems-i/classwork/02-swap-using-xor.md)
   * [03 Find Min and Max in array](07-array-problems-i/classwork/03-find-min-and-max-in-array.md)
@@ -71,7 +71,7 @@
 ## 🧵 14 Character Array and Strings
 
 * [📔 Handwritten Notes](14-character-array-and-strings/handwritten-notes.md)
-* [🧑💻 🧑💻 Classwork](14-character-array-and-strings/classwork/README.md)
+* [🧑💻 Classwork](14-character-array-and-strings/classwork/README.md)
   * [Anagram 1 Sort and Compare](14-character-array-and-strings/classwork/anagram-1-sort-and-compare.md)
   * [Anagram 2 Lookup table](14-character-array-and-strings/classwork/anagram-2-lookup-table.md)
   * [Check if Strings are rotation of each other](14-character-array-and-strings/classwork/check-if-strings-are-rotation-of-each-other.md)
@@ -98,7 +98,7 @@
 ## ➗ 15. Basic Mathematics for DSA
 
 * [📔 Handwritten Notes](15.-basic-mathematics-for-dsa/handwritten-notes.md)
-* [🧑💻 🧑💻 Classwork](15.-basic-mathematics-for-dsa/classwork/README.md)
+* [🧑💻 Classwork](15.-basic-mathematics-for-dsa/classwork/README.md)
   * [01 Function to check if number is prime](15.-basic-mathematics-for-dsa/classwork/01-function-to-check-if-number-is-prime.md)
   * [02 Euclid's Algorithm for GCD](15.-basic-mathematics-for-dsa/classwork/02-euclids-algorithm-for-gcd.md)
   * [03 Fast Exponentiation](15.-basic-mathematics-for-dsa/classwork/03-fast-exponentiation.md)
@@ -127,7 +127,7 @@
 ## 💾 18 Static and Dynamic Allocation
 
 * [📔 Handwritten Notes](18-static-and-dynamic-allocation/notes.md)
-* [🧑💻 🧑💻 Classwork](18-static-and-dynamic-allocation/classwork/README.md)
+* [🧑💻 Classwork](18-static-and-dynamic-allocation/classwork/README.md)
   * [01 Dynamic Allocaiton of variable](18-static-and-dynamic-allocation/classwork/01-dynamic-allocaiton-of-variable.md)
   * [02 Dynamic Allocation of 1D Array](18-static-and-dynamic-allocation/classwork/02-dynamic-allocation-of-1d-array.md)
   * [03 Dynamic Allocation of 2D Array](18-static-and-dynamic-allocation/classwork/03-dynamic-allocation-of-2d-array.md)
