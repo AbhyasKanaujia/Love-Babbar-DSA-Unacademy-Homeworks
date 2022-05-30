@@ -67,6 +67,14 @@
   * [06 Move Negative to One Size](07-array-problems-i/discord-homework-list/06-move-negative-to-one-size.md)
   * [07 Union of two Sorted Arrays](07-array-problems-i/discord-homework-list/07-union-of-two-sorted-arrays.md)
   * [07 Intersection of Two Arrays](07-array-problems-i/discord-homework-list/07-intersection-of-two-arrays.md)
+  * [08 Cyclically Rotate an Array by One](07-array-problems-i/discord-homework-list/08-cyclically-rotate-an-array-by-one.md)
+  * [09 Find duplicates in an array of n + 1 integers](07-array-problems-i/discord-homework-list/09-find-duplicates-in-an-array-of-n-+-1-integers.md)
+  * [10 Two Sum](07-array-problems-i/discord-homework-list/10-two-sum.md)
+  * [11 Triplet Sum in Array](07-array-problems-i/discord-homework-list/11-triplet-sum-in-array.md)
+  * [12 Check If an Array is a Palindrome](07-array-problems-i/discord-homework-list/12-check-if-an-array-is-a-palindrome.md)
+  * [13 Minimum Swaps and K Together](07-array-problems-i/discord-homework-list/13-minimum-swaps-and-k-together.md)
+  * [14 Unique number of occurences](07-array-problems-i/discord-homework-list/14-unique-number-of-occurences.md)
+  * [15 Kaden's Alorithm](07-array-problems-i/discord-homework-list/15-kadens-alorithm.md)
 
 ## 🧵 14 Character Array and Strings
 

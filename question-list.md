@@ -38,6 +38,22 @@
 
 [Move Negative to One Side](07-array-problems-i/discord-homework-list/06-move-negative-to-one-size.md)
 
+[Cyclically Rotate an Array by One](07-array-problems-i/discord-homework-list/08-cyclically-rotate-an-array-by-one.md)
+
+[Find duplicates in an array of n + 1 integers](07-array-problems-i/discord-homework-list/09-find-duplicates-in-an-array-of-n-+-1-integers.md)
+
+[Two Sum](07-array-problems-i/discord-homework-list/10-two-sum.md)
+
+[Triplet Sum in Array](07-array-problems-i/discord-homework-list/11-triplet-sum-in-array.md)
+
+[Check If an Array is a Palindrome](07-array-problems-i/discord-homework-list/12-check-if-an-array-is-a-palindrome.md)
+
+[Minimum swaps and K together](07-array-problems-i/discord-homework-list/13-minimum-swaps-and-k-together.md)
+
+[Unique number of Occurences](07-array-problems-i/discord-homework-list/14-unique-number-of-occurences.md)
+
+[Kaden's Algorithm](07-array-problems-i/discord-homework-list/15-kadens-alorithm.md)
+
 ### String
 
 [Anagram using sort](14-character-array-and-strings/classwork/anagram-1-sort-and-compare.md)
@@ -46,7 +62,7 @@
 
 [Anagram without sort and in constant space](14-character-array-and-strings/classwork/anagram-2-lookup-table.md)&#x20;
 
-[Length of character array](14-character-array-and-strings/classwork/getlen-implementation.md)
+[Length of a character array](14-character-array-and-strings/classwork/getlen-implementation.md)
 
 [Minimum Number of Flips](14-character-array-and-strings/classwork/minimum-number-of-flips.md)
 
