@@ -76,6 +76,13 @@
   * [14 Unique number of occurences](07-array-problems-i/discord-homework-list/14-unique-number-of-occurences.md)
   * [15 Kaden's Alorithm](07-array-problems-i/discord-homework-list/15-kadens-alorithm.md)
 
+## ⁉ 08 Array Problems II
+
+* [📔 Handwritten Notes](08-array-problems-ii/handwritten-notes.md)
+* [⛳ Discord Homework List](08-array-problems-ii/discord-homework-list/README.md)
+  * [01 Common elements](08-array-problems-ii/discord-homework-list/01-common-elements.md)
+  * [02 First Repeating Element](08-array-problems-ii/discord-homework-list/02-first-repeating-element.md)
+
 ## 🧵 14 Character Array and Strings
 
 * [📔 Handwritten Notes](14-character-array-and-strings/handwritten-notes.md)
@@ -165,7 +172,7 @@
   * [01 Coin Change](20-recursion-ii/homework/01-coin-change.md)
   * [02 Optimal Strategy for a Game](20-recursion-ii/homework/02-optimal-strategy-for-a-game.md)
 
-## 21 Recursion III
+## 🔁 21 Recursion III
 
 * [📔 Handwritten Notes](21-recursion-iii/handwritten-notes.md)
 * [🏡 Homework](21-recursion-iii/homework/README.md)

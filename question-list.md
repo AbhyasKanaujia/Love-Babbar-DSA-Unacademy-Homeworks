@@ -86,11 +86,13 @@
 
 [Permutation in String](14-character-array-and-strings/discord-homework/10.-permutation-in-string.md#generate-all-permutations-and-see-if-it-is-present)
 
+[Common Elements in 3 Arrays](08-array-problems-ii/discord-homework-list/01-common-elements.md)
+
 ### Mathematics
 
 [Power of Two](05-programming-basics-iii/homework/01-leetcode-power-of-two.md)
 
-[Check if Number is Prime(Sieve of Eratosthenes)](15.-basic-mathematics-for-dsa/classwork/01-function-to-check-if-number-is-prime.md)
+[Check if a Number is Prime(Sieve of Eratosthenes)](15.-basic-mathematics-for-dsa/classwork/01-function-to-check-if-number-is-prime.md)
 
 [Euclid's Algorithm for GCD](15.-basic-mathematics-for-dsa/classwork/02-euclids-algorithm-for-gcd.md)
 
@@ -111,3 +113,4 @@
 [Combination in a String of Digits](21-recursion-iii/homework/02-combination-in-a-string-of-digits.md)
 
 [Count even length](21-recursion-iii/homework/03-count-even-length.md)
+
