@@ -107,3 +107,7 @@
 [Search an Element in an Array](19-recursion-i/homework/02-search-an-element-using-recursion.md)
 
 [Binary Search](19-recursion-i/homework/03-binary-search-using-recursion.md)
+
+[Combination in a String of Digits](21-recursion-iii/homework/02-combination-in-a-string-of-digits.md)
+
+[Count even length](21-recursion-iii/homework/03-count-even-length.md)

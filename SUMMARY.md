@@ -164,3 +164,11 @@
 * [🏡 Homework](20-recursion-ii/homework/README.md)
   * [01 Coin Change](20-recursion-ii/homework/01-coin-change.md)
   * [02 Optimal Strategy for a Game](20-recursion-ii/homework/02-optimal-strategy-for-a-game.md)
+
+## 21 Recursion III
+
+* [📔 Handwritten Notes](21-recursion-iii/handwritten-notes.md)
+* [🏡 Homework](21-recursion-iii/homework/README.md)
+  * [01 Powerset](21-recursion-iii/homework/01-powerset.md)
+  * [02 Combination in a String of Digits](21-recursion-iii/homework/02-combination-in-a-string-of-digits.md)
+  * [03 Count even length](21-recursion-iii/homework/03-count-even-length.md)
