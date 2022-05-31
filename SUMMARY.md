@@ -179,3 +179,7 @@
   * [01 Powerset](21-recursion-iii/homework/01-powerset.md)
   * [02 Combination in a String of Digits](21-recursion-iii/homework/02-combination-in-a-string-of-digits.md)
   * [03 Count even length](21-recursion-iii/homework/03-count-even-length.md)
+
+## ➗ 22 Divide and Conquer - Recursion
+
+* [📔 Handwritten Notes](22-divide-and-conquer-recursion/handwritten-notes.md)
