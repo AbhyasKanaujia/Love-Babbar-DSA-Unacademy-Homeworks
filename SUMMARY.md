@@ -82,6 +82,10 @@
 * [⛳ Discord Homework List](08-array-problems-ii/discord-homework-list/README.md)
   * [01 Common elements](08-array-problems-ii/discord-homework-list/01-common-elements.md)
   * [02 First Repeating Element](08-array-problems-ii/discord-homework-list/02-first-repeating-element.md)
+  * [03 Find First non repeating element in an Array](08-array-problems-ii/discord-homework-list/03-find-first-non-repeating-element-in-an-array.md)
+  * [04 Largest subarray with an equal number of 0s and 1s](08-array-problems-ii/discord-homework-list/04-largest-subarray-with-an-equal-number-of-0s-and-1s.md)
+  * [05 Subarray with 0 sum](08-array-problems-ii/discord-homework-list/05-subarray-with-0-sum.md)
+  * [06 Factorial of Large Number](08-array-problems-ii/discord-homework-list/06-factorial-of-large-number.md)
 
 ## 🧵 14 Character Array and Strings
 
