@@ -192,6 +192,6 @@
 
 * [📔 Handwritten Notes](22-divide-and-conquer-recursion/handwritten-notes.md)
 
-## Group 1
+## ⏮ 23 Backtracking I
 
-* [23 Backtracking I](group-1/23-backtracking-i.md)
+* [📔 Handwritten Notes](23-backtracking-i/handwritten-notes.md)

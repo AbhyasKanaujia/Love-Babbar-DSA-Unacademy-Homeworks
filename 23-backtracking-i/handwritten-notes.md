@@ -1,4 +1,4 @@
-# 23 Backtracking I
+# 📔 Handwritten Notes
 
 ![](<../.gitbook/assets/DocScanner 02-Jun-2022 11-27 pm\_1.jpg>)
 
