@@ -89,21 +89,3 @@ Time Complexity: $$O(n^2)$$
 Space Complexity: $$O(1)$$​
 
 </details>
-
-### Using set
-
-```cpp
-int firstRepeated(int arr[], int n) {
-    int firstRepeating = -1;
-    
-    unordered_set<int> visited;
-    
-    for(int i = n - 1; i >= 0; i--) {
-        if(visited.count(arr[i]))
-            firstRepeating = i;
-        visited.insert(arr[i]);
-    }
-    
-    return ((firstRepeating == -1) ? -1 : firstRepeating + 1);
-}
-```

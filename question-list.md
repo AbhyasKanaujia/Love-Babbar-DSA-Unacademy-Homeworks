@@ -50,7 +50,7 @@
 
 [Minimum swaps and K together](07-array-problems-i/discord-homework-list/13-minimum-swaps-and-k-together.md)
 
-[An Unique number of Occurences](07-array-problems-i/discord-homework-list/14-unique-number-of-occurences.md)
+[A Unique number of Occurences](07-array-problems-i/discord-homework-list/14-unique-number-of-occurences.md)
 
 [Kaden's Algorithm](07-array-problems-i/discord-homework-list/15-kadens-alorithm.md)
 
@@ -65,6 +65,12 @@
 [Find the subarray with 0 as the sum](08-array-problems-ii/discord-homework-list/05-subarray-with-0-sum.md)
 
 [Find Factorial of a Large Number](08-array-problems-ii/discord-homework-list/06-factorial-of-large-number.md)
+
+[Minimum Platforms](08-array-problems-ii/discord-homework-list/07-minimize-platforms-problems.md)
+
+[Majority Element(Moore's Voting Algorithm)](08-array-problems-ii/discord-homework-list/09-majority-element-moores-voting-algorithm.md)
+
+[Array Subset of Another Array](08-array-problems-ii/discord-homework-list/10-find-whether-an-array-is-a-subset-of-another-array.md)
 
 ### String
 
@@ -82,7 +88,7 @@
 
 [Check if One string is in another](14-character-array-and-strings/homework/02.-check-if-one-string-is-in-another.md)
 
-[Check if String is Palindrome](14-character-array-and-strings/discord-homework/03.-check-if-a-string-is-a-palindrome-or-not.md)
+[Check if a String is a Palindrome](14-character-array-and-strings/discord-homework/03.-check-if-a-string-is-a-palindrome-or-not.md)
 
 [Valid Palindrome](14-character-array-and-strings/discord-homework/04.-valid-palindrome.md)
 

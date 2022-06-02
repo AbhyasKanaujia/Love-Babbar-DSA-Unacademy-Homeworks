@@ -86,6 +86,10 @@
   * [04 Largest subarray with an equal number of 0s and 1s](08-array-problems-ii/discord-homework-list/04-largest-subarray-with-an-equal-number-of-0s-and-1s.md)
   * [05 Subarray with 0 sum](08-array-problems-ii/discord-homework-list/05-subarray-with-0-sum.md)
   * [06 Factorial of Large Number](08-array-problems-ii/discord-homework-list/06-factorial-of-large-number.md)
+  * [07 Minimize Platforms Problems](08-array-problems-ii/discord-homework-list/07-minimize-platforms-problems.md)
+  * [08 Minimize the Heights II](08-array-problems-ii/discord-homework-list/08-minimize-the-heights-ii.md)
+  * [09 Majority Element (Moore’s Voting Algorithm)](08-array-problems-ii/discord-homework-list/09-majority-element-moores-voting-algorithm.md)
+  * [10 Find whether an array is a subset of another array](08-array-problems-ii/discord-homework-list/10-find-whether-an-array-is-a-subset-of-another-array.md)
 
 ## 🧵 14 Character Array and Strings
 
