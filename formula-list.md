@@ -2,7 +2,7 @@
 
 ### Arrays
 
-1. Addrss of index `i` = `base address` + `index` \* `size` of each element
+1. Adderss of index `i` = `base address` + `index` \* `size` of each element
 
 ### Binary Search
 
@@ -12,7 +12,7 @@ $$
 mid=low+((high-low)>>1)
 $$
 
-:bomb: `mid = low + (high - low) >> 1` will not work. >>'s precedence is lower, so it needs to be in paranthesis.&#x20;
+:bomb: `mid = low + (high - low) >> 1` will not work. >>'s precedence is lower, so it needs to be in parenthesis.&#x20;
 
 ### Math
 
@@ -50,6 +50,16 @@ x^\frac{n}{2}\times x^\frac{n}{2} \times \frac{1}{x} &\text{when x is odd and } 
 \right.
 $$
 
+#### Compare Numbers Represented as a String
+
+```cpp
+bool compare(string s1, string s2) { // is s1 smaller than s2
+    if(s1.length() == s2.length()) 
+        return s1 < s2;
+    return s1.length() < s2.length();
+}
+```
+
 ### String
 
 #### Palindrome Test
@@ -58,6 +68,6 @@ $$
 
 #### Anagram Test (aka permutation of string)
 
-* Number of each character in both string will be same
+* The number of each character in both strings will be the same
   * Use Map or lookup table
 
