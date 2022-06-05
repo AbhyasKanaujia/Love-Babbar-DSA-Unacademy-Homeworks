@@ -1,5 +1,7 @@
 # 📔 Handwritten Notes
 
+[Downloadable PDF](23%20Backtracking%20II.pdf)
+
 ![1/7](<../.gitbook/assets/DocScanner 05-Jun-2022 11-08 am\_1.jpg>)
 
 ![2/7](<../.gitbook/assets/DocScanner 05-Jun-2022 11-08 am\_2.jpg>)
