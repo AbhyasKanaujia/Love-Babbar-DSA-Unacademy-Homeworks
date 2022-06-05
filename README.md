@@ -1,6 +1,8 @@
 # 😇 README
 
-[<mark style="color:yellow;">Click here to visit the notebook</mark>](https://abhyas-kanaujia.gitbook.io/love-babbar-dsa-unacademy-homework/)<mark style="color:yellow;"></mark>
+### All My Public Notebooks
+
+{% embed url="https://gist.github.com/AbhyasKanaujia/b1aa2c5ba91e8a0b7796fecdbf52023a" %}
 
 ### Homework
 
