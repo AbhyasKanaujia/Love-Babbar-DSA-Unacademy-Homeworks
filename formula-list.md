@@ -60,6 +60,19 @@ bool compare(string s1, string s2) { // is s1 smaller than s2
 }
 ```
 
+#### Compare double type numbers
+
+```cpp
+if(abs(a - b) < 1e-9)
+	cout << "Same";
+else
+	cout << "Not Same";
+```
+
+Two double type numbers could be the same but could evaluate as false due to precision error when compared using `==` for equality.
+
+So a better way to say that two double numbers are equal is to say that the distance between them is going to be less than $$\epsilon$$ where $$\epsilon$$ is a very small number.
+
 ### String
 
 #### Palindrome Test
