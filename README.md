@@ -30,7 +30,38 @@ Doubt Clearing Session Part VI &#x20;
 
 <summary>Pending</summary>
 
-1. Catalan Number: Wait until Trees complete.&#x20;
+#### Recursion Sheet
+
+1. [Reverse String](https://leetcode.com/problems/reverse-string/)
+2. [Power of Four](https://leetcode.com/problems/power-of-four/)
+3. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+4. [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+5. [Decode String](https://leetcode.com/problems/decode-string/)
+6. [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+7. [Elimination Game](https://leetcode.com/problems/elimination-game/)
+8. [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+9. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+10. [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)
+11. [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/)
+12. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+13. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+14. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+
+#### 22. Divide & Conquer Homework
+
+1. Merge Sort in-place
+
+#### 23. Backtracking Homework
+
+1. Letter Tile Possibilities
+2. Generate Parenthesis
+3. Beautiful Arrangement
+
+#### 24.  Backtracking II Homework
+
+1. Combination Sum
+2. Combination Sum II
+3. Combination Sum III
 
 </details>
 
