@@ -4,7 +4,9 @@
 GeeksFor Geeks QUesiton
 {% endembed %}
 
-### Using Set
+<details>
+
+<summary>Using Set</summary>
 
 ```cpp
 int doUnion(int a[], int n, int b[], int m)  {
@@ -32,7 +34,11 @@ So, Time Complexity = $$O(\log(n!\times m!))$$
 
 Space Complexity = $$O(m + n)$$​
 
-### Using Look Up Table
+</details>
+
+<details>
+
+<summary>Using Lookup Table</summary>
 
 ```cpp
 int doUnion(int a[], int n, int b[], int m)  {
@@ -78,3 +84,5 @@ int doUnion(int a[], int n, int b[], int m)  {
 Time Complexity: $$O(m + n)$$
 
 Space complexity: $$O(max(a, b))$$
+
+</details>

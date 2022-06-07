@@ -172,6 +172,7 @@
   * [03 Binary Search using Recursion](19-recursion-i/homework/03-binary-search-using-recursion.md)
 * [⛳ Discord Homework](19-recursion-i/discord-homework/README.md)
   * [Reverse String](19-recursion-i/discord-homework/reverse-string.md)
+  * [Power of Four](19-recursion-i/discord-homework/power-of-four.md)
 
 ## 🔁 20 Recursion II
 

@@ -132,3 +132,7 @@
 
 [Count even length](21-recursion-iii/homework/03-count-even-length.md)
 
+[Reverse a String](19-recursion-i/discord-homework/reverse-string.md)
+
+[Power of Four](19-recursion-i/discord-homework/power-of-four.md)
+
