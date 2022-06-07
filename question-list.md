@@ -136,3 +136,7 @@
 
 [Power of Four](19-recursion-i/discord-homework/power-of-four.md)
 
+[Find the Winner of the Circular Game](19-recursion-i/discord-homework/find-the-winner-of-the-circular-game.md)
+
+[Different Ways to Add Parentheses](19-recursion-i/discord-homework/different-ways-to-add-parentheses.md)
+
