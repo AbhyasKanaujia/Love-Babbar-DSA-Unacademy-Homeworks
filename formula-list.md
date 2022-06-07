@@ -1,12 +1,13 @@
 # 🧪 Formula List
 
-### Arrays
+## Arrays
 
-1. Adderss of index `i` = `base address` + `index` \* `size` of each element
+1. Address of index `i` = `base address` + `index` \* `size` of each element
+2. When working with a group of people in a circular arrangement(or any similar situation), think of how a `queue` might be used here.&#x20;
 
-### Binary Search
+## Binary Search
 
-#### Mid
+### Mid
 
 $$
 mid=low+((high-low)>>1)
@@ -14,13 +15,13 @@ $$
 
 :bomb: `mid = low + (high - low) >> 1` will not work. >>'s precedence is lower, so it needs to be in parenthesis.&#x20;
 
-### Math
+## Math
 
-#### Primality Test
+### Primality Test
 
 * Sieve of Eratosthenes
 
-#### GCD Euclid's Formula
+### GCD Euclid's Formula
 
 [View Main Article](15.-basic-mathematics-for-dsa/classwork/02-euclids-algorithm-for-gcd.md)
 
@@ -35,7 +36,7 @@ $$
 \right.
 $$
 
-#### Fast Exponentiation
+### Fast Exponentiation
 
 [View Main Article](15.-basic-mathematics-for-dsa/classwork/03-fast-exponentiation.md)
 
@@ -50,7 +51,7 @@ x^\frac{n}{2}\times x^\frac{n}{2} \times \frac{1}{x} &\text{when x is odd and } 
 \right.
 $$
 
-#### Compare Numbers Represented as a String
+### Compare Numbers Represented as a String
 
 ```cpp
 bool compare(string s1, string s2) { // is s1 smaller than s2
@@ -60,7 +61,7 @@ bool compare(string s1, string s2) { // is s1 smaller than s2
 }
 ```
 
-#### Compare double type numbers
+### Compare double type numbers
 
 ```cpp
 if(abs(a - b) < 1e-9)
@@ -73,13 +74,32 @@ Two double type numbers could be the same but could evaluate as false due to pre
 
 So a better way to say that two double numbers are equal is to say that the distance between them is going to be less than $$\epsilon$$ where $$\epsilon$$ is a very small number.
 
-### String
+### nCr
 
-#### Palindrome Test
+```cpp
+int nCr(int n, int r) {
+    if(n == 0 || r == 0 || n == r)
+        return 1;
+
+    r = min(r, n - r);
+
+    int res = 1;
+    for(int i = 1; i <= r; i++) 
+        res = res * (n - i + 1) / i;
+    
+    return res;
+}
+```
+
+Time Complexity: $$O(min(r, n - r))$$​
+
+## String
+
+### Palindrome Test
 
 * Two Pointer approach
 
-#### Anagram Test (aka permutation of string)
+### Anagram Test (aka permutation of string)
 
 * The number of each character in both strings will be the same
   * Use Map or lookup table

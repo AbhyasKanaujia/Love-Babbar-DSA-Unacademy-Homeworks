@@ -173,6 +173,7 @@
 * [⛳ Discord Homework](19-recursion-i/discord-homework/README.md)
   * [Reverse String](19-recursion-i/discord-homework/reverse-string.md)
   * [Power of Four](19-recursion-i/discord-homework/power-of-four.md)
+  * [Find the Winner of the Circular Game](19-recursion-i/discord-homework/find-the-winner-of-the-circular-game.md)
 
 ## 🔁 20 Recursion II
 
