@@ -204,6 +204,10 @@
 
 * [📔 Handwritten Notes](23-backtracking-i/handwritten-notes.md)
 
-## 24 Backtracking II
+## ⏮ 24 Backtracking II
 
 * [📔 Handwritten Notes](24-backtracking-ii/handwritten-notes.md)
+
+## ⏮ 25 Backtracking III
+
+* [📔 Handwritten Notes](25-backtracking-iii/handwritten-notes.md)

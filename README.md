@@ -63,6 +63,12 @@ Doubt Clearing Session Part VI &#x20;
 2. Combination Sum II
 3. Combination Sum III
 
+**25. Backtracking III Homework**
+
+1. Word Search
+
+
+
 </details>
 
 ### Find me&#x20;
