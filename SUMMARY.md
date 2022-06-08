@@ -1,7 +1,6 @@
 # Table of contents
 
 * [😇 README](README.md)
-  * [Handwritten Notes](readme/handwritten-notes.md)
 * [🧪 Formula List](formula-list.md)
 * [🚀 Functions](functions.md)
 * [⚔ Question List](question-list.md)
