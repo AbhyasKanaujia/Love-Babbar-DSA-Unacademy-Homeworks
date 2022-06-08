@@ -43,6 +43,7 @@
 * [🏡 Homework](05-programming-basics-iii/homework/README.md)
   * [01 LeetCode: Power of Two](05-programming-basics-iii/homework/01-leetcode-power-of-two.md)
   * [02 Reverse an Integer](05-programming-basics-iii/homework/02-reverse-an-integer.md)
+  * [03 Number Complement](05-programming-basics-iii/homework/03-number-complement.md)
 
 ## 🗒 06 Arrays and Functions
 

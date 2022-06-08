@@ -12,7 +12,9 @@
 
 [Reverse an Integer](05-programming-basics-iii/homework/02-reverse-an-integer.md)
 
-[Sawp using XOR](07-array-problems-i/classwork/02-swap-using-xor.md)
+[Swap using XOR](07-array-problems-i/classwork/02-swap-using-xor.md)
+
+[Number Complement](05-programming-basics-iii/homework/03-number-complement.md)
 
 ### Pattern Programs
 
