@@ -49,9 +49,7 @@ Doubt Clearing Session Part VI &#x20;
 
 #### 22. Divide & Conquer Homework
 
-1. Merge Sort in-place
-2. Count Inversions
-3. Quick Sort
+1. Quick Sort
 
 #### 23. Backtracking Homework
 

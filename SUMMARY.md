@@ -200,12 +200,13 @@
 * [🏡 Homework](22-divide-and-conquer-recursion/homework/README.md)
   * [Merge Sort](22-divide-and-conquer-recursion/homework/merge-sort.md)
   * [In-Place Merge Sort](22-divide-and-conquer-recursion/homework/in-place-merge-sort.md)
+  * [Count Inversions](22-divide-and-conquer-recursion/homework/count-inversions.md)
 
 ## ⏮ 23 Backtracking I
 
 * [📔 Handwritten Notes](23-backtracking-i/handwritten-notes.md)
 
-## ⏮ 24 Backtracking II
+## 24 Backtracking II
 
 * [📔 Handwritten Notes](24-backtracking-ii/handwritten-notes.md)
 
