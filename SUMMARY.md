@@ -103,7 +103,7 @@
   * [getline() with delimiter](14-character-array-and-strings/classwork/getline-with-delimiter.md)
   * [Minimum number of flips](14-character-array-and-strings/classwork/minimum-number-of-flips.md)
   * [Reverse a Character String](14-character-array-and-strings/classwork/reverse-a-character-string.md)
-* [🏡 Homework](<15.-basic-mathematics-for-dsa/homework/README (1).md>)
+* [🏡 Homework](14-character-array-and-strings/homework/README.md)
   * [01. Anagram using map](14-character-array-and-strings/homework/01.-anagram-using-map.md)
   * [02. Check if One String is in Another](14-character-array-and-strings/homework/02.-check-if-one-string-is-in-another.md)
   * [03. cppref string play](14-character-array-and-strings/homework/cppref-string-play.md)
@@ -204,7 +204,7 @@
 
 * [📔 Handwritten Notes](23-backtracking-i/handwritten-notes.md)
 
-## ⏮ 24 Backtracking II
+## 24 Backtracking II
 
 * [📔 Handwritten Notes](24-backtracking-ii/handwritten-notes.md)
 

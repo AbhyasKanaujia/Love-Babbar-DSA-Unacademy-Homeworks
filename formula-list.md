@@ -53,11 +53,35 @@ $$
 
 ### Compare Numbers Represented as a String
 
+#### If leading 0s is not a problem
+
 ```cpp
 bool compare(string s1, string s2) { // is s1 smaller than s2
     if(s1.length() == s2.length()) 
         return s1 < s2;
     return s1.length() < s2.length();
+}
+```
+
+#### Post removal of leading 0s
+
+```cpp
+string removeLeadingZeros(string str) {
+    int zeros = 0;
+    while(zeros < str.size() && str[zeros] == '0')
+        zeros++;
+        
+    return str.substr(zeros);
+}
+
+bool compare(string num1, string num2) {
+    num1 = removeLeadingZeros(num1);
+    num2 = removeLeadingZeros(num2);
+    
+    if(num1.size() == num2.size())
+        return num1 < num2;
+        
+    return num1.size() < num2.size();
 }
 ```
 
