@@ -13,7 +13,7 @@ $$
 mid=low+((high-low)>>1)
 $$
 
-:bomb: `mid = low + (high - low) >> 1` will not work. >>'s precedence is lower, so it needs to be in parenthesis.&#x20;
+:bomb: `mid = low + (high - low) >> 1` will not work. >>'s precedence is lower, so it needs to be in parentheses.&#x20;
 
 ## Math
 
@@ -23,7 +23,7 @@ $$
 
 ### GCD Euclid's Formula
 
-[View Main Article](15.-basic-mathematics-for-dsa/classwork/02-euclids-algorithm-for-gcd.md)
+[See Main Article](15.-basic-mathematics-for-dsa/classwork/02-euclids-algorithm-for-gcd.md)
 
 $$
 \text{GCD}(a, b) = \left\{
@@ -38,7 +38,7 @@ $$
 
 ### Fast Exponentiation
 
-[View Main Article](15.-basic-mathematics-for-dsa/classwork/03-fast-exponentiation.md)
+[See Main Article](15.-basic-mathematics-for-dsa/classwork/03-fast-exponentiation.md)
 
 $$
 x^n=\left\{
@@ -51,7 +51,7 @@ x^\frac{n}{2}\times x^\frac{n}{2} \times \frac{1}{x} &\text{when x is odd and } 
 \right.
 $$
 
-### Compare Numbers Represented as a String
+### Compare Numbers Represented as String
 
 #### If leading 0s is not a problem
 
@@ -94,11 +94,11 @@ else
 	cout << "Not Same";
 ```
 
-Two double type numbers could be the same but could evaluate as false due to precision error when compared using `==` for equality.
+Two double-type numbers could be the same but could evaluate as false due to precision error when compared using `==` for equality.
 
-So a better way to say that two double numbers are equal is to say that the distance between them is going to be less than $$\epsilon$$ where $$\epsilon$$ is a very small number.
+A way to say that two double numbers are equal is to say that the distance between them is going to be less than $$\epsilon$$ where $$\epsilon$$ is a very small number.
 
-### Check if a double type contains Integer
+### Check whether a double type contains Integer
 
 ```cpp
 inline bool isInteger(const double &x) {
@@ -106,7 +106,7 @@ inline bool isInteger(const double &x) {
 }
 ```
 
-If a number is  not integer e.g. 5.5, then subtracting the integer part will leave a lot more than $$\epsilon$$​
+If a number is  not an integer, for example, 5.5, then subtracting the integer part will leave a lot more than $$\epsilon$$​
 
 $$
 5.5 - 5 = 0.5 > \epsilon
