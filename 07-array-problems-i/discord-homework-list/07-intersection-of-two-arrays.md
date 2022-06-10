@@ -4,9 +4,7 @@
 LeetCode: Intersection of Two Arrays
 {% endembed %}
 
-<details>
-
-<summary>Using Set</summary>
+### Using Set
 
 ```cpp
 vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
@@ -31,5 +29,3 @@ vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
 Time Complexity: $$O(n\log n + m \log m)$$
 
 Space Complexity: $$O(m + n)$$
-
-</details>
