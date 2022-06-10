@@ -199,6 +199,7 @@
 * [📔 Handwritten Notes](22-divide-and-conquer-recursion/handwritten-notes.md)
 * [🏡 Homework](22-divide-and-conquer-recursion/homework/README.md)
   * [Merge Sort](22-divide-and-conquer-recursion/homework/merge-sort.md)
+  * [In-Place Merge Sort](22-divide-and-conquer-recursion/homework/in-place-merge-sort.md)
 
 ## ⏮ 23 Backtracking I
 
