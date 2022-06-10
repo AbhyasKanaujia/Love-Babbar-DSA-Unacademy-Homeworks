@@ -204,7 +204,7 @@
 
 * [📔 Handwritten Notes](23-backtracking-i/handwritten-notes.md)
 
-## 24 Backtracking II
+## ⏮ 24 Backtracking II
 
 * [📔 Handwritten Notes](24-backtracking-ii/handwritten-notes.md)
 
@@ -212,6 +212,6 @@
 
 * [📔 Handwritten Notes](25-backtracking-iii/handwritten-notes.md)
 
-## 26 Time Complexity of Recursive Algorithm & OOPs I
+## ⏳ 26 Time Complexity of Recursive Algorithm & OOPs I
 
-* [Handwritten Notes](26-time-complexity-of-recursive-algorithm-and-oops-i/handwritten-notes.md)
+* [📔 Handwritten Notes](26-time-complexity-of-recursive-algorithm-and-oops-i/handwritten-notes.md)
