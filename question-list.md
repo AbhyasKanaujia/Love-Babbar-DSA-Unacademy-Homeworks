@@ -142,3 +142,12 @@
 
 [Different Ways to Add Parentheses](19-recursion-i/discord-homework/different-ways-to-add-parentheses.md)
 
+### Divide and Conquer
+
+[Merge Sort](22-divide-and-conquer-recursion/homework/merge-sort.md)
+
+[In-Place Merge Sort](22-divide-and-conquer-recursion/homework/in-place-merge-sort.md)
+
+[Count Inversions](22-divide-and-conquer-recursion/homework/count-inversions.md)
+
+[Quick Sort](22-divide-and-conquer-recursion/homework/quick-sort.md)
