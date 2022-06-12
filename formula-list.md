@@ -135,7 +135,13 @@ int nCr(int n, int r) {
 }
 ```
 
-Time Complexity: $$O(min(r, n - r))$$​
+Time Complexity: $$O(min(r, n - r))$$
+
+### Power of two
+
+```cpp
+(n & (n - 1) == 0) ? "Yes" : "No";
+```
 
 ## String
 
