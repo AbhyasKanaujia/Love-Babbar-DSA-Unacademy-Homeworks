@@ -208,6 +208,7 @@
 * [📔 Handwritten Notes](23-backtracking-i/handwritten-notes.md)
 * [🏡 Homework](23-backtracking-i/homework/README.md)
   * [Letter Tile Possibilities](23-backtracking-i/homework/letter-tile-possibilities.md)
+  * [Generate Parenthesis](23-backtracking-i/homework/generate-parenthesis.md)
 
 ## 24 Backtracking II
 

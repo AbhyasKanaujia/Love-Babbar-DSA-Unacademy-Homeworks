@@ -26,9 +26,7 @@ Doubt Clearing Session Part VI &#x20;
 
 </details>
 
-<details>
-
-<summary>Pending</summary>
+### Pending
 
 #### Recursion Sheet
 
@@ -46,9 +44,8 @@ Doubt Clearing Session Part VI &#x20;
 
 23\. Backtracking Homework
 
-1. Letter Tile Possibilities
-2. Generate Parenthesis
-3. Beautiful Arrangement
+1. Generate Parenthesis
+2. Beautiful Arrangement
 
 #### 24.  Backtracking II Homework
 
@@ -65,8 +62,6 @@ Doubt Clearing Session Part VI &#x20;
 1. Padding & Alignment
 2. Does a class use space in C++? In Java?
 3. Deep copy & Shallow copy
-
-</details>
 
 ### Find me&#x20;
 
