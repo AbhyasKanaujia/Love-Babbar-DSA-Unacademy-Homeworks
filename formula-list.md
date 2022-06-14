@@ -1,5 +1,23 @@
 # 🧪 Formula List
 
+## Basic
+
+Prevent iterator from moving forward in `for`  loop.
+
+```cpp
+char ch;
+    
+for(int i = 1; i <= 10; i++){
+    cout << "Iteration " << i << endl;
+    cout << "repeat iteration (y/n): ";
+    cin >> ch;
+    if(ch == 'y')
+        i--;
+}
+```
+
+Sometimes you might want to work with the same value of the iterator. Example: See solution for [First Missing Integer](https://www.interviewbit.com/problems/first-missing-integer/)
+
 ## Arrays
 
 1. Address of index `i` = `base address` + `index` \* `size` of each element
@@ -154,3 +172,38 @@ Time Complexity: $$O(min(r, n - r))$$
 * The number of each character in both strings will be the same
   * Use Map or lookup table
 
+## Bit Manipulation
+
+### Check if bit is set
+
+```cpp
+bool isSet(int num, int posFromRight) {
+    return num & (1 << (posFromRight - 1));
+}
+```
+
+### Set a bit
+
+```cpp
+int set(int num, int posFromRight) {
+    return num | (1 << (posFromRight - 1));
+}
+```
+
+### Multiply by 2^k
+
+$$num \times 2^k$$​
+
+```cpp
+int multiply(int num, int k) {
+    return num << k; // num * 2 ^ k
+}
+```
+
+### Check if a number is odd or even
+
+```cpp
+bool isEven(int num) {
+    return (num & 1) ? true : false;
+}
+```
