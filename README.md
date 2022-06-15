@@ -44,8 +44,7 @@ Doubt Clearing Session Part VI &#x20;
 
 23\. Backtracking Homework
 
-1. Generate Parenthesis
-2. Beautiful Arrangement
+1. Beautiful Arrangement
 
 #### 24.  Backtracking II Homework
 

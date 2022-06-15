@@ -209,6 +209,7 @@
 * [🏡 Homework](23-backtracking-i/homework/README.md)
   * [Letter Tile Possibilities](23-backtracking-i/homework/letter-tile-possibilities.md)
   * [Generate Parenthesis](23-backtracking-i/homework/generate-parenthesis.md)
+  * [Beautiful Arrangement](23-backtracking-i/homework/beautiful-arrangement.md)
 
 ## 24 Backtracking II
 

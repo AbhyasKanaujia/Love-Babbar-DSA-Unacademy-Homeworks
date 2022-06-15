@@ -151,3 +151,11 @@
 [Count Inversions](22-divide-and-conquer-recursion/homework/count-inversions.md)
 
 [Quick Sort](22-divide-and-conquer-recursion/homework/quick-sort.md)
+
+### Backtracking
+
+[Letter Tile Possibilities](23-backtracking-i/homework/letter-tile-possibilities.md)
+
+[Generate Parenthesis](23-backtracking-i/homework/generate-parenthesis.md)
+
+[Beautiful Arrangement](23-backtracking-i/homework/beautiful-arrangement.md)
