@@ -1,0 +1,5 @@
+# 🧪 Formula List
+
+
+
+## Bit Manipulation

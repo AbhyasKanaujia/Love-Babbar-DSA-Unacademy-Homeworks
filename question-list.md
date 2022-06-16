@@ -12,7 +12,7 @@
 
 [Reverse an Integer](05-programming-basics-iii/homework/02-reverse-an-integer.md)
 
-[Swap using XOR](07-array-problems-i/classwork/02-swap-using-xor.md)
+[Sawp using XOR](07-array-problems-i/classwork/02-swap-using-xor.md)
 
 [Number Complement](05-programming-basics-iii/homework/03-number-complement.md)
 
@@ -74,6 +74,10 @@
 
 [Array Subset of Another Array](08-array-problems-ii/discord-homework-list/10-find-whether-an-array-is-a-subset-of-another-array.md)
 
+[Merge Sort](22-divide-and-conquer-recursion/homework/merge-sort.md)
+
+[Quick Sort](broken-reference)
+
 ### String
 
 [Anagram using sort](14-character-array-and-strings/classwork/anagram-1-sort-and-compare.md)
@@ -134,6 +138,8 @@
 
 [Count even length](21-recursion-iii/homework/03-count-even-length.md)
 
+
+
 [Reverse a String](19-recursion-i/discord-homework/reverse-string.md)
 
 [Power of Four](19-recursion-i/discord-homework/power-of-four.md)
@@ -141,8 +147,6 @@
 [Find the Winner of the Circular Game](19-recursion-i/discord-homework/find-the-winner-of-the-circular-game.md)
 
 [Different Ways to Add Parentheses](19-recursion-i/discord-homework/different-ways-to-add-parentheses.md)
-
-### Divide and Conquer
 
 [Merge Sort](22-divide-and-conquer-recursion/homework/merge-sort.md)
 
