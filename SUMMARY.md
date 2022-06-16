@@ -1,13 +1,14 @@
 # Table of contents
 
 * [😇 README](README.md)
-* [🧪 Formula List](formula-list/README.md)
+* [🧪 Formula List](formula-list.md)
   * [Basic](formula-list/basic.md)
   * [Arrays](formula-list/arrays.md)
   * [Binary Search](formula-list/binary-search.md)
   * [Math](formula-list/math.md)
   * [String](formula-list/string.md)
   * [Bit Manipulation](formula-list/bit-manipulation.md)
+  * [Linked List](formula-list/linked-list.md)
 * [🚀 Functions](functions.md)
 * [⚔ Question List](question-list.md)
 
