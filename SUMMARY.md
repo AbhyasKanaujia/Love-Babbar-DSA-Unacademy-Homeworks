@@ -229,3 +229,8 @@
 ## ⏳ 26 Time Complexity of Recursive Algorithm & OOPs I
 
 * [📔 Handwritten Notes](26-time-complexity-of-recursive-algorithm-and-oops-i/handwritten-notes.md)
+
+## 29 Linked List I
+
+* [📔 Handwritten Notes](29-linked-list-i/handwritten-notes.md)
+* [👩💻 Code](29-linked-list-i/code.md)
