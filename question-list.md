@@ -14,8 +14,6 @@
 
 [Sawp using XOR](07-array-problems-i/classwork/02-swap-using-xor.md)
 
-[Number Complement](05-programming-basics-iii/homework/03-number-complement.md)
-
 ### Pattern Programs
 
 [All Pattern Programs](04-pattern-programs/all-solutions.md)
@@ -73,10 +71,6 @@
 [Majority Element(Moore's Voting Algorithm)](08-array-problems-ii/discord-homework-list/09-majority-element-moores-voting-algorithm.md)
 
 [Array Subset of Another Array](08-array-problems-ii/discord-homework-list/10-find-whether-an-array-is-a-subset-of-another-array.md)
-
-[Merge Sort](22-divide-and-conquer-recursion/homework/merge-sort.md)
-
-[Quick Sort](broken-reference)
 
 ### String
 
@@ -138,28 +132,3 @@
 
 [Count even length](21-recursion-iii/homework/03-count-even-length.md)
 
-
-
-[Reverse a String](19-recursion-i/discord-homework/reverse-string.md)
-
-[Power of Four](19-recursion-i/discord-homework/power-of-four.md)
-
-[Find the Winner of the Circular Game](19-recursion-i/discord-homework/find-the-winner-of-the-circular-game.md)
-
-[Different Ways to Add Parentheses](19-recursion-i/discord-homework/different-ways-to-add-parentheses.md)
-
-[Merge Sort](22-divide-and-conquer-recursion/homework/merge-sort.md)
-
-[In-Place Merge Sort](22-divide-and-conquer-recursion/homework/in-place-merge-sort.md)
-
-[Count Inversions](22-divide-and-conquer-recursion/homework/count-inversions.md)
-
-[Quick Sort](22-divide-and-conquer-recursion/homework/quick-sort.md)
-
-### Backtracking
-
-[Letter Tile Possibilities](23-backtracking-i/homework/letter-tile-possibilities.md)
-
-[Generate Parenthesis](23-backtracking-i/homework/generate-parenthesis.md)
-
-[Beautiful Arrangement](23-backtracking-i/homework/beautiful-arrangement.md)
