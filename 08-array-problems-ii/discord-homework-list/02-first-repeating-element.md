@@ -67,7 +67,7 @@ $$0 \le A_i \le 10^6$$​
 
 <summary>Code</summary>
 
-```cpp
+```c
 int firstRepeated(int arr[], int n) {
     for(int i = 0; i < n; i++)
         for(int j = i + 1; j < n; j++)
@@ -87,6 +87,57 @@ int firstRepeated(int arr[], int n) {
 Time Complexity: $$O(n^2)$$
 
 Space Complexity: $$O(1)$$​
+
+</details>
+
+### Using map
+
+<details>
+
+<summary>Logic</summary>
+
+1. `firstRepeating = -1` stores the index of the first repeating element.&#x20;
+2. We traverse the array from right to left.&#x20;
+3. A set `visited` will store those elements that we have encountered on the right side of the current element.&#x20;
+4. While traversing from right to left&#x20;
+   1. If any element has already been visited&#x20;
+      1. It is a repeating element.&#x20;
+         1. Suppose this is the first occurence of the repeating element.&#x20;
+            1. Update `firstRepeating`&#x20;
+   2. Otherwise add it to the visited list&#x20;
+5. In the end, either we have `-1` in `firstRepeating` which tells that there are no repetitive elements, or we find the index of the repeating element.
+
+</details>
+
+<details>
+
+<summary>Code</summary>
+
+```cpp
+int firstRepeated(int arr[], int n) {
+    int firstRepeating = -1;
+    
+    unordered_set<int> visited;
+    
+    for(int i = n - 1; i >= 0; i--) {
+        if(visited.count(arr[i]))
+            firstRepeating = i;
+        visited.insert(arr[i]);
+    }
+    
+    return ((firstRepeating == -1) ? -1 : firstRepeating + 1);
+}
+```
+
+</details>
+
+<details>
+
+<summary>Complexity</summary>
+
+Time Complexity: $$O(n)$$​
+
+Space Complexity: $$O(n)$$​
 
 </details>
 

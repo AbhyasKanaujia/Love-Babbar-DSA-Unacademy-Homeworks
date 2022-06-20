@@ -52,7 +52,21 @@
 
 [Minimum swaps and K together](07-array-problems-i/discord-homework-list/13-minimum-swaps-and-k-together.md)
 
+[Unique number of Occurences](07-array-problems-i/discord-homework-list/14-unique-number-of-occurences.md)
+
 [A Unique number of Occurences](07-array-problems-i/discord-homework-list/14-unique-number-of-occurences.md)
+
+[Common Elements in 3 Arrays](08-array-problems-ii/discord-homework-list/01-common-elements.md)
+
+[FIrst Repeating Element](08-array-problems-ii/discord-homework-list/02-first-repeating-element.md)
+
+[First Non-Repeating Element](08-array-problems-ii/discord-homework-list/03-non-repeating-element.md)
+
+[Subarrays with equal 0s and 1s](08-array-problems-ii/discord-homework-list/04-subarrays-with-equal-0s-and-1s.md)
+
+[Find Subarray with sum 0](08-array-problems-ii/discord-homework-list/05-find-subarray-with-sum-0.md)
+
+[Factorial of a Large Number](08-array-problems-ii/discord-homework-list/06-factorial-of-a-large-number.md)
 
 [Kaden's Algorithm](07-array-problems-i/discord-homework-list/15-kadens-alorithm.md)
 
