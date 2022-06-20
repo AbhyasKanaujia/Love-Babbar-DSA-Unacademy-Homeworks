@@ -234,3 +234,5 @@
 
 * [📔 Handwritten Notes](29-linked-list-i/handwritten-notes.md)
 * [👩💻 Code](29-linked-list-i/code.md)
+* [🏡 Homework](29-linked-list-i/homework/README.md)
+  * [Singly Linked List](29-linked-list-i/homework/singly-linked-list.md)
