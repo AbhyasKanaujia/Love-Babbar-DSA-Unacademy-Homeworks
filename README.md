@@ -6,7 +6,7 @@
 
 ### Homework
 
-<table><thead><tr><th>Class</th><th data-type="checkbox">Homework</th><th data-type="checkbox">Notes</th><th data-type="checkbox">Video</th></tr></thead><tbody><tr><td>01 Introduction to Programming</td><td>true</td><td>true</td><td>true</td></tr><tr><td>02 Programming Basic I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>03 Programming Basic II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>04 Pattern Homework</td><td>true</td><td>true</td><td>true</td></tr><tr><td>05 Programming Basics III</td><td>true</td><td>true</td><td>true</td></tr><tr><td>06 Functions and array</td><td>true</td><td>true</td><td>true</td></tr><tr><td>07 Array Problems I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>08 Array Problem II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>09 2D Array</td><td>false</td><td>false</td><td>false</td></tr><tr><td>10 Binary Search</td><td>false</td><td>false</td><td>false</td></tr><tr><td>11 Binary Search Problems I</td><td>false</td><td>false</td><td>false</td></tr><tr><td>12 Binary Search Problems II</td><td>false</td><td>false</td><td>false</td></tr><tr><td>13 Sorting Techniques </td><td>false</td><td>false</td><td>false</td></tr><tr><td>14 Character Arrays and String </td><td>true</td><td>true</td><td>true</td></tr><tr><td>15 Basic Mathematics for DSA</td><td>true</td><td>true</td><td>true</td></tr><tr><td>16 Pointers I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>17 Pointers II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>18 Static and Dynamic Allocation</td><td>true</td><td>true</td><td>true</td></tr><tr><td>19 Recursion I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>20 Recursion II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>21 Recursion III</td><td>true</td><td>true</td><td>true</td></tr><tr><td>22 Divide &#x26; Conquer</td><td>true</td><td>true</td><td>true</td></tr><tr><td>23 Backtracking I</td><td>false</td><td>true</td><td>true</td></tr><tr><td>24 Backtracking II</td><td>false</td><td>true</td><td>true</td></tr><tr><td>25 Backgracking III</td><td>false</td><td>true</td><td>true</td></tr><tr><td>26 Time Complexity of Recursive Algorithm &#x26; OOPs I</td><td>false</td><td>true</td><td>true</td></tr><tr><td><del>27 OOSP II</del></td><td>false</td><td>false</td><td>false</td></tr><tr><td><del>28 OOPS III</del></td><td>false</td><td>false</td><td>false</td></tr><tr><td>29 Linked List I</td><td>false</td><td>true</td><td>true</td></tr><tr><td>30 Linked List II</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th>Class</th><th data-type="checkbox">Homework</th><th data-type="checkbox">Notes</th><th data-type="checkbox">Video</th></tr></thead><tbody><tr><td>01 Introduction to Programming</td><td>true</td><td>true</td><td>true</td></tr><tr><td>02 Programming Basic I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>03 Programming Basic II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>04 Pattern Homework</td><td>true</td><td>true</td><td>true</td></tr><tr><td>05 Programming Basics III</td><td>true</td><td>true</td><td>true</td></tr><tr><td>06 Functions and array</td><td>true</td><td>true</td><td>true</td></tr><tr><td>07 Array Problems I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>08 Array Problem II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>09 2D Array</td><td>false</td><td>false</td><td>false</td></tr><tr><td>10 Binary Search</td><td>false</td><td>false</td><td>false</td></tr><tr><td>11 Binary Search Problems I</td><td>false</td><td>false</td><td>false</td></tr><tr><td>12 Binary Search Problems II</td><td>false</td><td>false</td><td>false</td></tr><tr><td>13 Sorting Techniques </td><td>false</td><td>false</td><td>false</td></tr><tr><td>14 Character Arrays and String </td><td>true</td><td>true</td><td>true</td></tr><tr><td>15 Basic Mathematics for DSA</td><td>true</td><td>true</td><td>true</td></tr><tr><td>16 Pointers I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>17 Pointers II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>18 Static and Dynamic Allocation</td><td>true</td><td>true</td><td>true</td></tr><tr><td>19 Recursion I</td><td>true</td><td>true</td><td>true</td></tr><tr><td>20 Recursion II</td><td>true</td><td>true</td><td>true</td></tr><tr><td>21 Recursion III</td><td>true</td><td>true</td><td>true</td></tr><tr><td>22 Divide &#x26; Conquer</td><td>true</td><td>true</td><td>true</td></tr><tr><td>23 Backtracking I</td><td>false</td><td>true</td><td>true</td></tr><tr><td>24 Backtracking II</td><td>false</td><td>true</td><td>true</td></tr><tr><td>25 Backgracking III</td><td>false</td><td>true</td><td>true</td></tr><tr><td>26 Time Complexity of Recursive Algorithm &#x26; OOPs I</td><td>false</td><td>true</td><td>true</td></tr><tr><td><del>27 OOSP II</del></td><td>false</td><td>false</td><td>false</td></tr><tr><td><del>28 OOPS III</del></td><td>false</td><td>false</td><td>false</td></tr><tr><td>29 Linked List I</td><td>false</td><td>true</td><td>true</td></tr><tr><td>30 Linked List II</td><td>false</td><td>true</td><td>true</td></tr><tr><td>31 Linked List III</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
 
 <details>
 
@@ -62,12 +62,12 @@ Doubt Clearing Session Part VI &#x20;
 2. Does a class use space in C++? In Java?
 3. Deep copy & Shallow cop
 
-**29. Linked List I**
+**29. **~~**Linked List I**~~
 
 1. ~~Singly~~
-2. Doubly
-3. Circular
-4. Circular Doubly
+2. ~~Doubly~~
+3. ~~Circular~~
+4. ~~Circular Doubly~~
 
 **30. Linked List II**
 
@@ -78,7 +78,19 @@ Doubt Clearing Session Part VI &#x20;
 5. Palindrome LL
 6. Sort 0s, 1s and 2s
 
+**31. Linked List III**
 
+1. Print Kth Node from the end. 4 approaches
+2. Detect and Delete Loop
+3. Intersection Point of LL. 4 approaches
+4. Flatten a LL (recursion)
+5. Remove Duplicate from sorted/unsorted LL
+6. Add 1 to LL
+7. Add two LL
+8. Clone LL with random pointer
+9. Delete m nodes after n nodes
+10. Reverse alternate k nodes
+11. Why is quick sort preferred fore arrays, and why merge sort is preferred for LL?
 
 ### Find me&#x20;
 

@@ -1,6 +1,6 @@
 # 📔 Handwritten Notes
 
-
+[Get PDF](31%20Linked%20List%20III.pdf)
 
 ![1/8](<../.gitbook/assets/DocScanner 23-Jun-2022 12-23 pm\_1.jpg>)
 
