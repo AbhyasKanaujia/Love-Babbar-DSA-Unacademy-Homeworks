@@ -249,3 +249,7 @@
 ## 🔗 30 Linked List II
 
 * [📔 Handwritten Notes](30-linked-list-ii/handwritten-notes.md)
+
+## 🔗 31 Linked List III
+
+* [📔 Handwritten Notes](31-linked-list-iii/handwritten-notes.md)
