@@ -253,3 +253,7 @@
 ## 🔗 31 Linked List III
 
 * [📔 Handwritten Notes](31-linked-list-iii/handwritten-notes.md)
+
+## 📚 33 Stack I
+
+* [📔 Handwritten Notes](33-stack-i/handwritten-notes.md)
