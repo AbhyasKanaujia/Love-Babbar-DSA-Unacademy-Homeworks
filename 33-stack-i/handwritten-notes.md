@@ -1,7 +1,5 @@
 # 📔 Handwritten Notes
 
-[Get PDF](33%20Stack%20I.pdf)
-
 ![1/5](<../.gitbook/assets/33 Stack I\_1 (1).jpg>)
 
 ![2/5](<../.gitbook/assets/33 Stack I\_1(1) (1).jpg>)
